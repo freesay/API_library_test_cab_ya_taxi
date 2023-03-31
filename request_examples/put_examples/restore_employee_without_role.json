@@ -1,0 +1,30 @@
+{
+    "email": "example-mail@example-company.ru",
+    "fullname": "Иванов Илья",
+    "department_id": "233e725b0511459da7b38cb24f2d8fd7",
+    "nickname": "ИИлья",
+    "role": {
+        "limit": 10000,
+        "classes": ["econom"],
+        "restrictions": [
+            {
+                "days": ["mo", "we", "sa"],
+                "start_time": "00:00:00",
+                "end_time": "23:59:00",
+                "type": "weekly_date"
+            }
+        ],
+        "geo_restrictions": [
+            {
+                "source": "geo_restriction_id1",
+                "destination": "geo_restriction_id2"
+            },
+            {
+                "source": "geo_restriction_id3"
+            }
+        ]
+    },
+    "phone": "+75551234567",
+    "is_active": false,
+    "cost_center": "some cost center"
+}

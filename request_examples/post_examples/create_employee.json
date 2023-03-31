@@ -1,0 +1,18 @@
+{
+    "email": "example-mail@example-company.ru",
+    "fullname": "Иванов Илья",
+    "nickname": "ИИлья",
+    "department_id": "6dad1023219542a38f2840397c2ca77c",
+    "role": {
+        "role_id": "880fa5b3a791429d8162d69ae9e644d9"
+    },
+    "phone": "+75551234567",
+    "is_active": false,
+    "cost_center": "Основной центр затрат",
+    "cost_centers_id": "cost_center",
+    "cost_centers": {
+        "required": true,
+        "format": "mixed",
+        "values": ["центр затрат 1", "центр затрат 2"]
+    }
+}
