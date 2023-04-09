@@ -13,8 +13,9 @@ class Common:
         self.verify = False  # should be True (SSL problem)
         self.head_url = head_url
         self.token = token
+        self.parent_dir_response = 'RESPONSES'
+        self.parent_dir_request = 'REQUESTS'
         self.headers_auth = {"Authorization": f"{self.token}"}
-        self.client_id = self.get_auth_info()['client_id']
 
         self.post_examples = "post_examples"
         self.put_examples = "put_examples"
@@ -27,7 +28,7 @@ class Common:
         method = "GET"
         url = self.head_url + postfix
         response = requests.request(method, url, headers=self.headers_auth, verify=self.verify)
-        info = create_json_file(response, filename, method)
+        info = create_json_file(response, filename, method, self.parent_dir_response)
         print("GET Response status code:", response.status_code)
         return info
 
@@ -38,7 +39,7 @@ class Common:
         method = "POST"
         url = self.head_url + postfix
         response = requests.request(method, url, headers=self.headers_auth, data=data, verify=self.verify)
-        info = create_json_file(response, filename, method)
+        info = create_json_file(response, filename, method, self.parent_dir_response)
         print("POST Response status code:", response.status_code)
         return info
 
@@ -49,7 +50,7 @@ class Common:
         method = "PUT"
         url = self.head_url + postfix
         response = requests.request(method, url, headers=self.headers_auth, data=data, verify=self.verify)
-        info = create_json_file(response, filename, method)
+        info = create_json_file(response, filename, method, self.parent_dir_response)
         print("PUT Response status code:", response.status_code)
         return info
 
@@ -60,7 +61,7 @@ class Common:
         method = "DELETE"
         url = self.head_url + postfix
         response = requests.request(method, url, headers=self.headers_auth, data=data, verify=self.verify)
-        info = create_json_file(response, filename, method)
+        info = create_json_file(response, filename, method, self.parent_dir_response)
         print("DELETE Response status code:", response.status_code)
         return info
 
@@ -80,4 +81,5 @@ class Common:
         file_name = "auth_info.json"
         postfix = '/auth'
         auth_info = self.get_response(file_name, postfix)
+        print('Auth - OK')
         return auth_info
