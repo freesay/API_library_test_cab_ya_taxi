@@ -1,0 +1,73 @@
+{
+    "items": [
+        {
+            "_id": "vip",
+            "name": "Business",
+            "tags": []
+        },
+        {
+            "_id": "premium_van",
+            "name": "Cruise",
+            "tags": []
+        },
+        {
+            "_id": "ultimate",
+            "name": "Premier",
+            "tags": []
+        },
+        {
+            "_id": "maybach",
+            "name": "Élite",
+            "tags": []
+        },
+        {
+            "_id": "cargo",
+            "name": "Грузовой",
+            "tags": [
+                "cargo"
+            ]
+        },
+        {
+            "_id": "child_tariff",
+            "name": "Детский",
+            "tags": []
+        },
+        {
+            "_id": "business",
+            "name": "Комфорт",
+            "tags": []
+        },
+        {
+            "_id": "comfortplus",
+            "name": "Комфорт+",
+            "tags": []
+        },
+        {
+            "_id": "courier",
+            "name": "Курьер",
+            "tags": [
+                "cargo"
+            ]
+        },
+        {
+            "_id": "minivan",
+            "name": "Минивэн",
+            "tags": []
+        },
+        {
+            "_id": "econom",
+            "name": "Эконом",
+            "tags": []
+        },
+        {
+            "_id": "express",
+            "name": "Экспресс",
+            "tags": [
+                "cargo"
+            ]
+        }
+    ],
+    "amount": 12,
+    "sorting_field": "name",
+    "sorting_direction": 1
+}

@@ -1,0 +1,3507 @@
+{
+    "items": [
+        {
+            "_id": "57d4ed1155f2ea20a0c41cfa50a93673",
+            "status": {
+                "full": "complete",
+                "simple": "finished",
+                "description": ""
+            },
+            "due_date": "2023-03-29T16:13:56",
+            "source": {
+                "fullname": "Москва, Красная площадь, 3"
+            },
+            "corp_user": {
+                "user_id": "fe72927e91ba43afafa7ff237509479d",
+                "fullname": "В группе"
+            },
+            "cost_center": "",
+            "application": "corpweb",
+            "application_translate": "Личный кабинет",
+            "class": "econom",
+            "finished_date": "2023-03-29T17:13:56",
+            "cost": 0.0,
+            "cost_with_vat": "0.00",
+            "destination": {
+                "fullname": "Москва, Моховая улица, 15/1с1"
+            },
+            "interim_destinations": [
+                {
+                    "fullname": "Москва, Центральный административный округ, Тверской район, Театральный проезд, 5с1"
+                }
+            ],
+            "combo_order": {
+                "delivery_id": "848c2caeefc04b7390c7aa1bc0ce12ff"
+            }
+        },
+        {
+            "_id": "ea0c3303e397d5e28f3be2f5afee289d",
+            "status": {
+                "full": "complete",
+                "simple": "finished",
+                "description": ""
+            },
+            "due_date": "2023-03-29T16:05:50",
+            "source": {
+                "fullname": "Москва, Красная площадь, 3"
+            },
+            "corp_user": {
+                "user_id": "fe72927e91ba43afafa7ff237509479d",
+                "fullname": "В группе"
+            },
+            "cost_center": "",
+            "application": "corpweb",
+            "application_translate": "Личный кабинет",
+            "class": "econom",
+            "finished_date": "2023-03-29T16:18:02",
+            "cost": 1674.0,
+            "cost_with_vat": "2008.80",
+            "destination": {
+                "fullname": "Москва, улица Охотный Ряд, 2"
+            },
+            "interim_destinations": [
+                {
+                    "fullname": "Москва, улица Варварка, 6с1"
+                }
+            ],
+            "combo_order": {
+                "delivery_id": "9fabbad2800646e4ba2028e1c7a99c8c"
+            }
+        },
+        {
+            "_id": "8e71c69ca7d3df79a30331dfd4227eb1",
+            "status": {
+                "full": "cancelled",
+                "simple": "finished",
+                "description": ""
+            },
+            "due_date": "2023-03-29T15:56:06",
+            "source": {
+                "fullname": "Москва, Красная площадь, 3"
+            },
+            "corp_user": {
+                "user_id": "fe72927e91ba43afafa7ff237509479d",
+                "fullname": "В группе"
+            },
+            "cost_center": "",
+            "application": "corpweb",
+            "application_translate": "Личный кабинет",
+            "class": "vip",
+            "finished_date": "2023-03-29T15:46:45",
+            "cost": 0.0,
+            "cost_with_vat": "0.00",
+            "destination": {
+                "fullname": "Москва, улица Охотный Ряд, 2"
+            },
+            "interim_destinations": [
+                {
+                    "fullname": "Москва, Моховая улица, 15/1с1"
+                }
+            ],
+            "combo_order": {
+                "delivery_id": "7b21d036c2e74a6b89901b9c965a58db"
+            }
+        },
+        {
+            "_id": "1053bf989bef1970b0d8445c1c3e1c2e",
+            "status": {
+                "full": "complete",
+                "simple": "finished",
+                "description": ""
+            },
+            "due_date": "2023-03-29T15:55:55",
+            "source": {
+                "fullname": "Москва, Красная площадь, 3"
+            },
+            "corp_user": {
+                "user_id": "fe72927e91ba43afafa7ff237509479d",
+                "fullname": "В группе"
+            },
+            "cost_center": "",
+            "application": "corpweb",
+            "application_translate": "Личный кабинет",
+            "class": "econom",
+            "finished_date": "2023-03-29T16:16:02",
+            "cost": 1867.0,
+            "cost_with_vat": "2240.40",
+            "destination": {
+                "fullname": "Москва, Центральный административный округ, Тверской район, Театральный проезд, 5с1"
+            },
+            "interim_destinations": [
+                {
+                    "fullname": "Москва, улица Охотный Ряд, 2"
+                }
+            ],
+            "combo_order": {
+                "delivery_id": "d96f6a9c47c246a993912094105c46d5"
+            }
+        },
+        {
+            "_id": "2a909e01d60ac52ebbd5dbe9da255509",
+            "status": {
+                "full": "complete",
+                "simple": "finished",
+                "description": ""
+            },
+            "due_date": "2023-03-29T15:52:29",
+            "source": {
+                "fullname": "Москва, Красная площадь, 3"
+            },
+            "corp_user": {
+                "user_id": "fe72927e91ba43afafa7ff237509479d",
+                "fullname": "В группе"
+            },
+            "cost_center": "",
+            "application": "corpweb",
+            "application_translate": "Личный кабинет",
+            "class": "econom",
+            "finished_date": "2023-03-29T16:52:29",
+            "cost": 0.0,
+            "cost_with_vat": "0.00",
+            "destination": {
+                "fullname": "Москва, улица Охотный Ряд, 2"
+            },
+            "interim_destinations": [
+                {
+                    "fullname": "Москва, Моховая улица, 15/1с1"
+                }
+            ],
+            "combo_order": {
+                "delivery_id": "b6bc587bb81e4046828a73759809c798"
+            }
+        },
+        {
+            "_id": "95281a02d375d34398ae0c9436f8e0e2",
+            "status": {
+                "full": "complete",
+                "simple": "finished",
+                "description": ""
+            },
+            "due_date": "2023-03-29T11:29:14",
+            "source": {
+                "fullname": "Москва, Зеленоград, к1469"
+            },
+            "corp_user": {
+                "user_id": "b85be34d74a040dabed98f107b88a976",
+                "fullname": "В погразделении"
+            },
+            "cost_center": "",
+            "application": "corpweb",
+            "application_translate": "Личный кабинет",
+            "class": "econom",
+            "finished_date": "2023-03-29T12:51:31",
+            "cost": 0.0,
+            "cost_with_vat": "0.00",
+            "destination": {
+                "fullname": "Москва, Зеленоград, к1469"
+            },
+            "interim_destinations": [
+                {
+                    "fullname": "Москва, Семёновская площадь, 4"
+                }
+            ]
+        },
+        {
+            "_id": "ebb12bba73001930a9c55f113f3f69c1",
+            "status": {
+                "full": "complete",
+                "simple": "finished",
+                "description": ""
+            },
+            "due_date": "2023-03-29T06:24:41",
+            "source": {
+                "fullname": "Москва, улица Льва Толстого, 16",
+                "extra_data": {
+                    "comment": "my comment",
+                    "apartment": "1",
+                    "floor": "1",
+                    "contact_phone": "+79031111111"
+                }
+            },
+            "corp_user": {
+                "user_id": "606f2cbcc487454896a715d5d11fb489",
+                "fullname": ""
+            },
+            "cost_center": "",
+            "application": "corpapi",
+            "application_translate": "corpapi",
+            "class": "express",
+            "finished_date": "2023-03-29T06:34:39",
+            "cost": 455.0,
+            "cost_with_vat": "546.00",
+            "destination": {
+                "fullname": "Москва, Тверской бульвар, 1",
+                "extra_data": {
+                    "comment": "33",
+                    "apartment": "123",
+                    "floor": "2",
+                    "contact_phone": "+79032222222"
+                }
+            }
+        },
+        {
+            "_id": "4f88be27cc221d21a98b1861e7c603ff",
+            "status": {
+                "full": "cancelled",
+                "simple": "finished",
+                "description": ""
+            },
+            "due_date": "2023-03-25T06:48:29",
+            "source": {
+                "fullname": "Белгород, Коммунальная улица, 3"
+            },
+            "corp_user": {
+                "user_id": "b85be34d74a040dabed98f107b88a976",
+                "fullname": "В погразделении"
+            },
+            "cost_center": "",
+            "cost_centers": [
+                {
+                    "id": "0ddf66708f0245b0a988c68d1cd886cf",
+                    "title": "Цель поездки",
+                    "value": "На работу"
+                }
+            ],
+            "application": "corpweb",
+            "application_translate": "Личный кабинет",
+            "class": "econom",
+            "finished_date": "2023-03-25T06:38:35",
+            "cost": 0.0,
+            "cost_with_vat": "0.00",
+            "destination": {
+                "fullname": "Белгород, Коммунальная улица, 3"
+            }
+        },
+        {
+            "_id": "54b8f0d3046a359ebd97b74f784967bd",
+            "status": {
+                "full": "cancelled",
+                "simple": "finished",
+                "description": ""
+            },
+            "due_date": "2023-03-25T06:47:17",
+            "source": {
+                "fullname": "Белгород, Коммунальная улица, 3"
+            },
+            "corp_user": {
+                "user_id": "b85be34d74a040dabed98f107b88a976",
+                "fullname": "В погразделении"
+            },
+            "cost_center": "",
+            "cost_centers": [
+                {
+                    "id": "0ddf66708f0245b0a988c68d1cd886cf",
+                    "title": "Цель поездки",
+                    "value": "На работу"
+                }
+            ],
+            "application": "corpweb",
+            "application_translate": "Личный кабинет",
+            "class": "econom",
+            "finished_date": "2023-03-25T06:37:46",
+            "cost": 0.0,
+            "cost_with_vat": "0.00",
+            "destination": {
+                "fullname": "Белгород, Коммунальная улица, 3"
+            }
+        },
+        {
+            "_id": "5b0ed799a301ef5b9811bdd12b84eff6",
+            "status": {
+                "full": "cancelled",
+                "simple": "finished",
+                "description": ""
+            },
+            "due_date": "2023-03-25T06:46:17",
+            "source": {
+                "fullname": "Белгород, Коммунальная улица, 3"
+            },
+            "corp_user": {
+                "user_id": "b85be34d74a040dabed98f107b88a976",
+                "fullname": "В погразделении"
+            },
+            "cost_center": "",
+            "cost_centers": [
+                {
+                    "id": "0ddf66708f0245b0a988c68d1cd886cf",
+                    "title": "Цель поездки",
+                    "value": "На работу"
+                }
+            ],
+            "application": "corpweb",
+            "application_translate": "Личный кабинет",
+            "class": "econom",
+            "finished_date": "2023-03-25T06:36:31",
+            "cost": 0.0,
+            "cost_with_vat": "0.00",
+            "destination": {
+                "fullname": "Белгород, Коммунальная улица, 3"
+            }
+        },
+        {
+            "_id": "9e7d33d63051c19ba9ec136758aacd80",
+            "status": {
+                "full": "cancelled",
+                "simple": "finished",
+                "description": ""
+            },
+            "due_date": "2023-03-25T06:33:25",
+            "source": {
+                "fullname": "Белгород, Волчанская улица, 292Б"
+            },
+            "corp_user": {
+                "user_id": "b85be34d74a040dabed98f107b88a976",
+                "fullname": "В погразделении"
+            },
+            "cost_center": "",
+            "cost_centers": [
+                {
+                    "id": "0ddf66708f0245b0a988c68d1cd886cf",
+                    "title": "Цель поездки",
+                    "value": "На работу"
+                }
+            ],
+            "application": "corpweb",
+            "application_translate": "Личный кабинет",
+            "class": "econom",
+            "finished_date": "2023-03-25T06:23:32",
+            "cost": 0.0,
+            "cost_with_vat": "0.00",
+            "destination": {
+                "fullname": "Белгород, улица Победы, 58, подъезд 4"
+            }
+        },
+        {
+            "_id": "225d39cd759121aba47b446d236ed957",
+            "status": {
+                "full": "cancelled",
+                "simple": "finished",
+                "description": ""
+            },
+            "due_date": "2023-03-25T06:18:28",
+            "source": {
+                "fullname": "Белгород, управа № 23 Крейда"
+            },
+            "corp_user": {
+                "user_id": "b85be34d74a040dabed98f107b88a976",
+                "fullname": "В погразделении"
+            },
+            "cost_center": "",
+            "cost_centers": [
+                {
+                    "id": "0ddf66708f0245b0a988c68d1cd886cf",
+                    "title": "Цель поездки",
+                    "value": "На работу"
+                }
+            ],
+            "application": "corpweb",
+            "application_translate": "Личный кабинет",
+            "class": "econom",
+            "finished_date": "2023-03-25T06:08:44",
+            "cost": 0.0,
+            "cost_with_vat": "0.00",
+            "destination": {
+                "fullname": "Белгород, Коммунальная улица, 3"
+            }
+        },
+        {
+            "_id": "010cc62e93ce3f11933fc1cf5a2c3847",
+            "status": {
+                "full": "cancelled",
+                "simple": "finished",
+                "description": ""
+            },
+            "due_date": "2023-03-25T06:17:19",
+            "source": {
+                "fullname": "Белгород, управа № 23 Крейда"
+            },
+            "corp_user": {
+                "user_id": "b85be34d74a040dabed98f107b88a976",
+                "fullname": "В погразделении"
+            },
+            "cost_center": "",
+            "cost_centers": [
+                {
+                    "id": "0ddf66708f0245b0a988c68d1cd886cf",
+                    "title": "Цель поездки",
+                    "value": "На работу"
+                }
+            ],
+            "application": "corpweb",
+            "application_translate": "Личный кабинет",
+            "class": "econom",
+            "finished_date": "2023-03-25T06:07:29",
+            "cost": 0.0,
+            "cost_with_vat": "0.00",
+            "destination": {
+                "fullname": "Белгородский район, городское поселение Северный, рабочий посёлок Северный, улица Победы, 59"
+            }
+        },
+        {
+            "_id": "50eb76eddb5910e39b0a5f708009bc0e",
+            "status": {
+                "full": "cancelled",
+                "simple": "finished",
+                "description": ""
+            },
+            "due_date": "2023-03-25T06:14:15",
+            "source": {
+                "fullname": "Белгород, управа № 23 Крейда"
+            },
+            "corp_user": {
+                "user_id": "f372de24e8294782a7cf843619f8f091",
+                "fullname": "Alex Evans"
+            },
+            "cost_center": "",
+            "cost_centers": [
+                {
+                    "id": "cost_center",
+                    "title": "Цель",
+                    "value": "123213"
+                }
+            ],
+            "application": "corpweb",
+            "application_translate": "Личный кабинет",
+            "class": "econom",
+            "finished_date": "2023-03-25T06:04:45",
+            "cost": 0.0,
+            "cost_with_vat": "0.00",
+            "destination": {
+                "fullname": "Белгород, улица Победы, 58, подъезд 4"
+            }
+        },
+        {
+            "_id": "784b651c0efe1cc7802b715f863dd144",
+            "status": {
+                "full": "complete",
+                "simple": "finished",
+                "description": ""
+            },
+            "due_date": "2023-03-24T10:37:09",
+            "source": {
+                "fullname": "Москва, Красная площадь, 3"
+            },
+            "corp_user": {
+                "user_id": "b85be34d74a040dabed98f107b88a976",
+                "fullname": "В погразделении"
+            },
+            "cost_center": "",
+            "cost_centers": [
+                {
+                    "id": "0ddf66708f0245b0a988c68d1cd886cf",
+                    "title": "Цель поездки",
+                    "value": "На работу"
+                }
+            ],
+            "application": "corpweb",
+            "application_translate": "Личный кабинет",
+            "class": "econom",
+            "finished_date": "2023-03-24T11:37:09",
+            "cost": 0.0,
+            "cost_with_vat": "0.00",
+            "destination": {
+                "fullname": "Москва, Моховая улица, 15/1с1"
+            }
+        },
+        {
+            "_id": "2855be14336821988fb6faa3b235e4ed",
+            "status": {
+                "full": "cancelled",
+                "simple": "finished",
+                "description": ""
+            },
+            "due_date": "2023-03-24T08:40:15",
+            "source": {
+                "fullname": "Москва, Тверская улица, 2"
+            },
+            "corp_user": {
+                "user_id": "f372de24e8294782a7cf843619f8f091",
+                "fullname": "Alex Evans"
+            },
+            "cost_center": "",
+            "cost_centers": [
+                {
+                    "id": "cost_center",
+                    "title": "Цель",
+                    "value": "213213213"
+                }
+            ],
+            "application": "android",
+            "application_translate": "Мобильное приложение",
+            "class": "econom",
+            "finished_date": "2023-03-24T08:37:46",
+            "cost": 0.0,
+            "cost_with_vat": "0.00",
+            "destination": {
+                "fullname": "Москва, Новая площадь, 3/4"
+            }
+        },
+        {
+            "_id": "2dddcc366b1533d08ed7ef1e600af5b2",
+            "status": {
+                "full": "cancelled",
+                "simple": "finished",
+                "description": ""
+            },
+            "due_date": "2023-03-24T08:37:13",
+            "source": {
+                "fullname": "Москва, Тверская улица, 2"
+            },
+            "corp_user": {
+                "user_id": "f372de24e8294782a7cf843619f8f091",
+                "fullname": "Alex Evans"
+            },
+            "cost_center": "",
+            "application": "android",
+            "application_translate": "Мобильное приложение",
+            "class": "econom",
+            "finished_date": "2023-03-24T08:34:43",
+            "cost": 0.0,
+            "cost_with_vat": "0.00",
+            "destination": {
+                "fullname": "Москва, Новая площадь, 3/4"
+            }
+        },
+        {
+            "_id": "638f09433c3c13ebb66c366ab4b4aa24",
+            "status": {
+                "full": "cancelled",
+                "simple": "finished",
+                "description": ""
+            },
+            "due_date": "2023-03-24T08:32:01",
+            "source": {
+                "fullname": "Москва, Тверская улица, 2"
+            },
+            "corp_user": {
+                "user_id": "f372de24e8294782a7cf843619f8f091",
+                "fullname": "Alex Evans"
+            },
+            "cost_center": "",
+            "cost_centers": [
+                {
+                    "id": "0ddf66708f0245b0a988c68d1cd886cf",
+                    "title": "Цель поездки",
+                    "value": "На работу"
+                }
+            ],
+            "application": "android",
+            "application_translate": "Мобильное приложение",
+            "class": "econom",
+            "finished_date": "2023-03-24T08:29:14",
+            "cost": 0.0,
+            "cost_with_vat": "0.00",
+            "destination": {
+                "fullname": "Москва, Новая площадь, 3/4"
+            }
+        },
+        {
+            "_id": "4c41c902d095d2549e75693e7b0f9cbb",
+            "status": {
+                "full": "cancelled",
+                "simple": "finished",
+                "description": ""
+            },
+            "due_date": "2023-03-24T08:28:28",
+            "source": {
+                "fullname": "Москва, Тверская улица, 2"
+            },
+            "corp_user": {
+                "user_id": "f372de24e8294782a7cf843619f8f091",
+                "fullname": "Alex Evans"
+            },
+            "cost_center": "",
+            "application": "android",
+            "application_translate": "Мобильное приложение",
+            "class": "econom",
+            "finished_date": "2023-03-24T08:25:54",
+            "cost": 0.0,
+            "cost_with_vat": "0.00",
+            "destination": {
+                "fullname": "Москва, Новая площадь, 3/4"
+            }
+        },
+        {
+            "_id": "95ed9077a832dc07ba0281576057c5d9",
+            "status": {
+                "full": "cancelled",
+                "simple": "finished",
+                "description": ""
+            },
+            "due_date": "2023-03-24T08:26:26",
+            "source": {
+                "fullname": "Москва, Тверская улица, 2"
+            },
+            "corp_user": {
+                "user_id": "f372de24e8294782a7cf843619f8f091",
+                "fullname": "Alex Evans"
+            },
+            "cost_center": "",
+            "application": "android",
+            "application_translate": "Мобильное приложение",
+            "class": "econom",
+            "finished_date": "2023-03-24T08:23:32",
+            "cost": 0.0,
+            "cost_with_vat": "0.00",
+            "destination": {
+                "fullname": "Москва, Новая площадь, 3/4"
+            }
+        },
+        {
+            "_id": "a0727bfeb37629d78376ca851fd7fc70",
+            "status": {
+                "full": "complete",
+                "simple": "finished",
+                "description": ""
+            },
+            "due_date": "2023-03-21T06:27:38",
+            "source": {
+                "fullname": "Москва, Красная площадь, 3"
+            },
+            "corp_user": {
+                "user_id": "b85be34d74a040dabed98f107b88a976",
+                "fullname": "В погразделении"
+            },
+            "cost_center": "",
+            "cost_centers": [
+                {
+                    "id": "cost_center",
+                    "title": "Цель",
+                    "value": "213213"
+                }
+            ],
+            "application": "corpweb",
+            "application_translate": "Личный кабинет",
+            "class": "econom",
+            "finished_date": "2023-03-21T07:13:17",
+            "cost": 179.0,
+            "cost_with_vat": "214.80",
+            "destination": {
+                "fullname": "Москва, Рыбный переулок, 3"
+            }
+        },
+        {
+            "_id": "7476aef2063f311f8fb0c9a19566fcb4",
+            "status": {
+                "full": "complete",
+                "simple": "finished",
+                "description": ""
+            },
+            "due_date": "2023-03-16T16:35:21",
+            "source": {
+                "fullname": "Москва, Красная площадь, 3"
+            },
+            "corp_user": {
+                "user_id": "f372de24e8294782a7cf843619f8f091",
+                "fullname": "Alex Evans"
+            },
+            "cost_center": "",
+            "cost_centers": [
+                {
+                    "id": "cost_center",
+                    "title": "Цель",
+                    "value": ""
+                }
+            ],
+            "application": "corpweb",
+            "application_translate": "Личный кабинет",
+            "class": "econom",
+            "finished_date": "2023-03-16T17:35:21",
+            "cost": 0.0,
+            "cost_with_vat": "0.00",
+            "destination": {
+                "fullname": "Москва, улица Охотный Ряд, 2"
+            }
+        },
+        {
+            "_id": "a6516b88446dcd34bac9ca3eabce68e9",
+            "status": {
+                "full": "complete",
+                "simple": "finished",
+                "description": ""
+            },
+            "due_date": "2023-03-16T12:17:20",
+            "source": {
+                "fullname": "Москва, Красная площадь, 3"
+            },
+            "corp_user": {
+                "user_id": "f372de24e8294782a7cf843619f8f091",
+                "fullname": "Alex Evans"
+            },
+            "cost_center": "",
+            "cost_centers": [
+                {
+                    "id": "cost_center",
+                    "title": "Цель",
+                    "value": ""
+                }
+            ],
+            "application": "corpweb",
+            "application_translate": "Личный кабинет",
+            "class": "econom",
+            "finished_date": "2023-03-16T13:17:20",
+            "cost": 0.0,
+            "cost_with_vat": "0.00",
+            "destination": {
+                "fullname": "Москва, Красная площадь, 3"
+            }
+        },
+        {
+            "_id": "7a3fadb00c432f6ca5cc9cb39e4a8f5a",
+            "status": {
+                "full": "complete",
+                "simple": "finished",
+                "description": ""
+            },
+            "due_date": "2023-03-16T12:17:02",
+            "source": {
+                "fullname": "Москва, Красная площадь, 3"
+            },
+            "corp_user": {
+                "user_id": "3cd449696e5f432fa701e9e256117700",
+                "fullname": "туту"
+            },
+            "cost_center": "",
+            "cost_centers": [
+                {
+                    "id": "cost_center",
+                    "title": "Цель",
+                    "value": ""
+                }
+            ],
+            "application": "corpweb",
+            "application_translate": "Личный кабинет",
+            "class": "econom",
+            "finished_date": "2023-03-16T13:17:02",
+            "cost": 0.0,
+            "cost_with_vat": "0.00",
+            "destination": {
+                "fullname": "Москва, Моховая улица, 15/1с1"
+            }
+        },
+        {
+            "_id": "64d73b60be893e79acad3a3fda16c5e7",
+            "status": {
+                "full": "complete",
+                "simple": "finished",
+                "description": ""
+            },
+            "due_date": "2023-03-12T11:51:54",
+            "source": {
+                "fullname": "Москва, улица Льва Толстого, 16",
+                "extra_data": {
+                    "comment": "my comment",
+                    "apartment": "1",
+                    "floor": "1",
+                    "contact_phone": "+79031111111"
+                }
+            },
+            "corp_user": {
+                "user_id": "606f2cbcc487454896a715d5d11fb489",
+                "fullname": ""
+            },
+            "cost_center": "",
+            "application": "corpapi",
+            "application_translate": "corpapi",
+            "class": "express",
+            "finished_date": "2023-03-12T12:02:48",
+            "cost": 445.0,
+            "cost_with_vat": "534.00",
+            "destination": {
+                "fullname": "Москва, Тверской бульвар, 1",
+                "extra_data": {
+                    "comment": "33",
+                    "apartment": "123",
+                    "floor": "2",
+                    "contact_phone": "+79032222222"
+                }
+            }
+        },
+        {
+            "_id": "7769af1a08d1cb4e8df2961c6bf528db",
+            "status": {
+                "full": "complete",
+                "simple": "finished",
+                "description": ""
+            },
+            "due_date": "2023-03-08T06:07:40",
+            "source": {
+                "fullname": "Москва, Петровско-Разумовская аллея, 8"
+            },
+            "corp_user": {
+                "user_id": "f372de24e8294782a7cf843619f8f091",
+                "fullname": "Alex Evans"
+            },
+            "cost_center": "",
+            "cost_centers": [
+                {
+                    "id": "0ddf66708f0245b0a988c68d1cd886cf",
+                    "title": "Цель поездки",
+                    "value": "На работу"
+                }
+            ],
+            "application": "corpweb",
+            "application_translate": "Личный кабинет",
+            "class": "econom",
+            "finished_date": "2023-03-08T06:14:41",
+            "cost": 332.0,
+            "cost_with_vat": "398.40",
+            "destination": {
+                "fullname": "Москва, Ходынский бульвар"
+            }
+        },
+        {
+            "_id": "c1e606cc43a2ea19b7446986b6a214df",
+            "status": {
+                "full": "complete",
+                "simple": "finished",
+                "description": ""
+            },
+            "due_date": "2023-02-23T15:39:24",
+            "source": {
+                "fullname": "Москва, Красная площадь, 3"
+            },
+            "corp_user": {
+                "user_id": "fe72927e91ba43afafa7ff237509479d",
+                "fullname": "В группе"
+            },
+            "cost_center": "",
+            "cost_centers": [
+                {
+                    "id": "0ddf66708f0245b0a988c68d1cd886cf",
+                    "title": "Цель поездки",
+                    "value": "На работу"
+                }
+            ],
+            "application": "corpweb",
+            "application_translate": "Личный кабинет",
+            "class": "econom",
+            "finished_date": "2023-02-23T16:39:24",
+            "cost": 0.0,
+            "cost_with_vat": "0.00",
+            "destination": {
+                "fullname": "Москва, Красная площадь, 3"
+            }
+        },
+        {
+            "_id": "e8e0b2860a19e6dabbba0b6412b59bfc",
+            "status": {
+                "full": "cancelled",
+                "simple": "finished",
+                "description": ""
+            },
+            "due_date": "2023-02-21T13:31:42",
+            "source": {
+                "fullname": "Москва, улица Охотный Ряд, 2"
+            },
+            "corp_user": {
+                "user_id": "3b5ab98c5ebd4cd4b90b6d20807ffcf7",
+                "fullname": "Джон Джонович"
+            },
+            "cost_center": "",
+            "application": "corpweb",
+            "application_translate": "Личный кабинет",
+            "class": "econom",
+            "finished_date": "2023-02-21T13:22:37",
+            "cost": 0.0,
+            "cost_with_vat": "0.00",
+            "destination": {
+                "fullname": "Москва, Центральный административный округ, Тверской район, Театральный проезд, 5с1"
+            },
+            "interim_destinations": [
+                {
+                    "fullname": "Москва, Моховая улица, 15/1с1"
+                }
+            ],
+            "combo_order": {
+                "delivery_id": "abb9687b00c148ff9e1a0d41f2a59812"
+            }
+        },
+        {
+            "_id": "b4b0ff545fe318e3a80654779440f7ab",
+            "status": {
+                "full": "cancelled",
+                "simple": "finished",
+                "description": ""
+            },
+            "due_date": "2023-02-21T13:15:57",
+            "source": {
+                "fullname": "Москва, Тверская улица, 2"
+            },
+            "corp_user": {
+                "user_id": "f372de24e8294782a7cf843619f8f091",
+                "fullname": "Alex Evans"
+            },
+            "cost_center": "",
+            "cost_centers": [
+                {
+                    "id": "0ddf66708f0245b0a988c68d1cd886cf",
+                    "title": "Цель поездки",
+                    "value": "На работу"
+                }
+            ],
+            "application": "android",
+            "application_translate": "Мобильное приложение",
+            "class": "econom",
+            "finished_date": "2023-02-21T06:16:24",
+            "cost": 0.0,
+            "cost_with_vat": "0.00",
+            "destination": {
+                "fullname": "Москва, улица Россолимо, 15/13с1"
+            }
+        },
+        {
+            "_id": "01e14b237df8e52285284c80789eb691",
+            "status": {
+                "full": "cancelled",
+                "simple": "finished",
+                "description": ""
+            },
+            "due_date": "2023-02-21T13:05:43",
+            "source": {
+                "fullname": "Москва, Тверская улица, 2"
+            },
+            "corp_user": {
+                "user_id": "f372de24e8294782a7cf843619f8f091",
+                "fullname": "Alex Evans"
+            },
+            "cost_center": "",
+            "cost_centers": [
+                {
+                    "id": "0ddf66708f0245b0a988c68d1cd886cf",
+                    "title": "Цель поездки",
+                    "value": "На работу"
+                }
+            ],
+            "application": "android",
+            "application_translate": "Мобильное приложение",
+            "class": "econom",
+            "finished_date": "2023-02-21T06:29:07",
+            "cost": 0.0,
+            "cost_with_vat": "0.00",
+            "destination": {
+                "fullname": "Москва, улица Россолимо, 15/13с1"
+            }
+        },
+        {
+            "_id": "546dea4a8fecee9da32759b9d5d9e49c",
+            "status": {
+                "full": "complete",
+                "simple": "finished",
+                "description": ""
+            },
+            "due_date": "2023-02-21T11:41:33",
+            "source": {
+                "fullname": "Москва, Красная площадь, 3"
+            },
+            "corp_user": {
+                "user_id": "f372de24e8294782a7cf843619f8f091",
+                "fullname": "Alex Evans"
+            },
+            "cost_center": "",
+            "cost_centers": [
+                {
+                    "id": "0ddf66708f0245b0a988c68d1cd886cf",
+                    "title": "Цель поездки",
+                    "value": "На работу"
+                }
+            ],
+            "application": "corpweb",
+            "application_translate": "Личный кабинет",
+            "class": "econom",
+            "finished_date": "2023-02-21T11:47:57",
+            "cost": 394.0,
+            "cost_with_vat": "472.80",
+            "destination": {
+                "fullname": "Москва, улица Охотный Ряд, 2"
+            }
+        },
+        {
+            "_id": "c257c28fc41a1f9fb9cdcaa005445486",
+            "status": {
+                "full": "complete",
+                "simple": "finished",
+                "description": ""
+            },
+            "due_date": "2023-02-21T11:34:25",
+            "source": {
+                "fullname": "Москва, Красная площадь, 3"
+            },
+            "corp_user": {
+                "user_id": "fe72927e91ba43afafa7ff237509479d",
+                "fullname": "В группе"
+            },
+            "cost_center": "",
+            "cost_centers": [
+                {
+                    "id": "0ddf66708f0245b0a988c68d1cd886cf",
+                    "title": "Цель поездки",
+                    "value": "На работу"
+                }
+            ],
+            "application": "corpweb",
+            "application_translate": "Личный кабинет",
+            "class": "econom",
+            "finished_date": "2023-02-21T12:34:25",
+            "cost": 0.0,
+            "cost_with_vat": "0.00",
+            "destination": {
+                "fullname": "Москва, улица Охотный Ряд, 2"
+            }
+        },
+        {
+            "_id": "8c2a2249064b1351b26c8c4a34f63533",
+            "status": {
+                "full": "expired",
+                "simple": "finished",
+                "description": ""
+            },
+            "due_date": "2023-02-21T07:45:03",
+            "source": {
+                "fullname": "Москва, Тверская улица, 2"
+            },
+            "corp_user": {
+                "user_id": "f372de24e8294782a7cf843619f8f091",
+                "fullname": "Alex Evans"
+            },
+            "cost_center": "",
+            "cost_centers": [
+                {
+                    "id": "0ddf66708f0245b0a988c68d1cd886cf",
+                    "title": "Цель поездки",
+                    "value": "На работу"
+                }
+            ],
+            "application": "android",
+            "application_translate": "Мобильное приложение",
+            "class": "econom",
+            "finished_date": "2023-02-21T07:38:21",
+            "cost": 0.0,
+            "cost_with_vat": "0.00",
+            "destination": {
+                "fullname": "Москва, улица Россолимо, 15/13с1"
+            }
+        },
+        {
+            "_id": "fefebc1df860d45e9d5d2b6dc8082b87",
+            "status": {
+                "full": "expired",
+                "simple": "finished",
+                "description": ""
+            },
+            "due_date": "2023-02-21T07:39:30",
+            "source": {
+                "fullname": "Москва, Тверская улица, 2"
+            },
+            "corp_user": {
+                "user_id": "f372de24e8294782a7cf843619f8f091",
+                "fullname": "Alex Evans"
+            },
+            "cost_center": "",
+            "cost_centers": [
+                {
+                    "id": "0ddf66708f0245b0a988c68d1cd886cf",
+                    "title": "Цель поездки",
+                    "value": "На работу"
+                }
+            ],
+            "application": "android",
+            "application_translate": "Мобильное приложение",
+            "class": "econom",
+            "finished_date": "2023-02-21T07:32:48",
+            "cost": 0.0,
+            "cost_with_vat": "0.00",
+            "destination": {
+                "fullname": "Москва, улица Россолимо, 15/13с1"
+            }
+        },
+        {
+            "_id": "83f5b492b6372b8a985248d7d40f700e",
+            "status": {
+                "full": "cancelled",
+                "simple": "finished",
+                "description": ""
+            },
+            "due_date": "2023-02-21T07:39:06",
+            "source": {
+                "fullname": "Москва, Тверская улица, 2"
+            },
+            "corp_user": {
+                "user_id": "f372de24e8294782a7cf843619f8f091",
+                "fullname": "Alex Evans"
+            },
+            "cost_center": "",
+            "cost_centers": [
+                {
+                    "id": "0ddf66708f0245b0a988c68d1cd886cf",
+                    "title": "Цель поездки",
+                    "value": "На работу"
+                }
+            ],
+            "application": "android",
+            "application_translate": "Мобильное приложение",
+            "class": "econom",
+            "finished_date": "2023-02-21T07:29:14",
+            "cost": 0.0,
+            "cost_with_vat": "0.00",
+            "destination": {
+                "fullname": "Москва, улица Россолимо, 15/13с1"
+            }
+        },
+        {
+            "_id": "3b94aeefe2cec4f9a5a7f206af566ab8",
+            "status": {
+                "full": "cancelled",
+                "simple": "finished",
+                "description": ""
+            },
+            "due_date": "2023-02-21T06:15:18",
+            "source": {
+                "fullname": "Москва, улица Россолимо, 15/13с1"
+            },
+            "corp_user": {
+                "user_id": "f372de24e8294782a7cf843619f8f091",
+                "fullname": "Alex Evans"
+            },
+            "cost_center": "",
+            "cost_centers": [
+                {
+                    "id": "0ddf66708f0245b0a988c68d1cd886cf",
+                    "title": "Цель поездки",
+                    "value": "На работу"
+                }
+            ],
+            "application": "android",
+            "application_translate": "Мобильное приложение",
+            "class": "econom",
+            "finished_date": "2023-02-21T06:05:31",
+            "cost": 0.0,
+            "cost_with_vat": "0.00",
+            "destination": {
+                "fullname": "Москва, Моховая улица, 15/1с1"
+            }
+        },
+        {
+            "_id": "ff1f7949fc963665a74697e524ab22d7",
+            "status": {
+                "full": "complete",
+                "simple": "finished",
+                "description": ""
+            },
+            "due_date": "2023-02-17T11:08:41",
+            "source": {
+                "fullname": "Москва, Тверская улица, 4"
+            },
+            "corp_user": {
+                "user_id": "43e0f9ffd9df463aa4eee556a0b3ac65",
+                "fullname": "Володя"
+            },
+            "cost_center": "",
+            "cost_centers": [
+                {
+                    "id": "0ddf66708f0245b0a988c68d1cd886cf",
+                    "title": "Цель поездки",
+                    "value": "С работы"
+                }
+            ],
+            "application": "android",
+            "application_translate": "Мобильное приложение",
+            "class": "econom",
+            "finished_date": "2023-02-17T12:08:41",
+            "cost": 0.0,
+            "cost_with_vat": "0.00",
+            "destination": {
+                "fullname": "Москва, улица Новый Арбат, 26"
+            }
+        },
+        {
+            "_id": "beeb5e116ab71606b0dd1704a91198df",
+            "status": {
+                "full": "cancelled",
+                "simple": "finished",
+                "description": ""
+            },
+            "due_date": "2023-02-16T07:02:22",
+            "source": {
+                "fullname": "Москва, Красная площадь, 3"
+            },
+            "corp_user": {
+                "user_id": "f372de24e8294782a7cf843619f8f091",
+                "fullname": "Alex Evans"
+            },
+            "cost_center": "",
+            "cost_centers": [
+                {
+                    "id": "0ddf66708f0245b0a988c68d1cd886cf",
+                    "title": "Цель поездки",
+                    "value": "wqeqwewqe"
+                }
+            ],
+            "application": "corpweb",
+            "application_translate": "Личный кабинет",
+            "class": "econom",
+            "finished_date": "2023-02-16T06:52:26",
+            "cost": 0.0,
+            "cost_with_vat": "0.00",
+            "destination": {
+                "fullname": "Москва, Центральный административный округ, Тверской район, Театральный проезд, 5с1"
+            },
+            "interim_destinations": [
+                {
+                    "fullname": "Москва, Моховая улица, 15/1с1"
+                }
+            ]
+        },
+        {
+            "_id": "8239bd424aae14b58648c522670e8ebe",
+            "status": {
+                "full": "complete",
+                "simple": "finished",
+                "description": ""
+            },
+            "due_date": "2023-02-13T16:37:31",
+            "source": {
+                "fullname": "Москва, Красная площадь, 3"
+            },
+            "corp_user": {
+                "user_id": "f372de24e8294782a7cf843619f8f091",
+                "fullname": "Alex Evans"
+            },
+            "cost_center": "",
+            "cost_centers": [
+                {
+                    "id": "0ddf66708f0245b0a988c68d1cd886cf",
+                    "title": "Цель поездки",
+                    "value": "wqeqwewqe"
+                }
+            ],
+            "application": "corpweb",
+            "application_translate": "Личный кабинет",
+            "class": "econom",
+            "finished_date": "2023-02-13T16:39:25",
+            "cost": 433.0,
+            "cost_with_vat": "519.60",
+            "destination": {
+                "fullname": "Москва, Моховая улица, 15/1с1"
+            }
+        },
+        {
+            "_id": "7ed0733a8c36c0ed8959715576c9def8",
+            "status": {
+                "full": "cancelled",
+                "simple": "finished",
+                "description": ""
+            },
+            "due_date": "2023-02-13T16:37:12",
+            "source": {
+                "fullname": "Москва, Красная площадь, 3"
+            },
+            "corp_user": {
+                "user_id": "f372de24e8294782a7cf843619f8f091",
+                "fullname": "Alex Evans"
+            },
+            "cost_center": "",
+            "application": "corpweb",
+            "application_translate": "Личный кабинет",
+            "class": "econom",
+            "finished_date": "2023-02-13T16:27:26",
+            "cost": 0.0,
+            "cost_with_vat": "0.00",
+            "destination": {
+                "fullname": "Москва, Моховая улица, 15/1с1"
+            }
+        },
+        {
+            "_id": "9648c5941116e093a3fcfd89719c677e",
+            "status": {
+                "full": "complete",
+                "simple": "finished",
+                "description": ""
+            },
+            "due_date": "2023-02-13T16:29:45",
+            "source": {
+                "fullname": "Москва, Красная площадь, 3"
+            },
+            "corp_user": {
+                "user_id": "f372de24e8294782a7cf843619f8f091",
+                "fullname": "Alex Evans"
+            },
+            "cost_center": "",
+            "cost_centers": [
+                {
+                    "id": "cost_center",
+                    "title": "Цель",
+                    "value": "123"
+                }
+            ],
+            "application": "corpweb",
+            "application_translate": "Личный кабинет",
+            "class": "econom",
+            "finished_date": "2023-02-13T17:29:45",
+            "cost": 0.0,
+            "cost_with_vat": "0.00",
+            "destination": {
+                "fullname": "Москва, Моховая улица, 15/1с1"
+            }
+        },
+        {
+            "_id": "428eabbbb6553b57915a16de2f732d27",
+            "status": {
+                "full": "expired",
+                "simple": "finished",
+                "description": ""
+            },
+            "due_date": "2023-02-12T17:21:33",
+            "source": {
+                "fullname": "Свердловская область, Екатеринбург, улица Большакова, 20"
+            },
+            "corp_user": {
+                "user_id": "f372de24e8294782a7cf843619f8f091",
+                "fullname": "Alex Evans"
+            },
+            "cost_center": "",
+            "cost_centers": [
+                {
+                    "id": "cost_center",
+                    "title": "Цель",
+                    "value": ""
+                }
+            ],
+            "application": "corpweb",
+            "application_translate": "Личный кабинет",
+            "class": "econom",
+            "finished_date": "2023-02-12T17:14:33",
+            "cost": 0.0,
+            "cost_with_vat": "0.00",
+            "destination": {
+                "fullname": "Свердловская область, Екатеринбург, проспект Ленина, 32"
+            }
+        },
+        {
+            "_id": "2717e3cf084bc870b5154cec1b65a813",
+            "status": {
+                "full": "expired",
+                "simple": "finished",
+                "description": ""
+            },
+            "due_date": "2023-02-12T17:17:10",
+            "source": {
+                "fullname": "Россия, Свердловская область, аэропорт Кольцово, Внутренние рейсы"
+            },
+            "corp_user": {
+                "user_id": "f372de24e8294782a7cf843619f8f091",
+                "fullname": "Alex Evans"
+            },
+            "cost_center": "",
+            "cost_centers": [
+                {
+                    "id": "cost_center",
+                    "title": "Цель",
+                    "value": ""
+                }
+            ],
+            "application": "corpweb",
+            "application_translate": "Личный кабинет",
+            "class": "econom",
+            "finished_date": "2023-02-12T17:10:11",
+            "cost": 0.0,
+            "cost_with_vat": "0.00",
+            "destination": {
+                "fullname": "Свердловская область, Екатеринбург, проспект Ленина, 32"
+            }
+        },
+        {
+            "_id": "7d2a899da42535b292d885c0494cfb19",
+            "status": {
+                "full": "expired",
+                "simple": "finished",
+                "description": ""
+            },
+            "due_date": "2023-02-12T16:37:40",
+            "source": {
+                "fullname": "Россия, Свердловская область, аэропорт Кольцово, Внутренние рейсы"
+            },
+            "corp_user": {
+                "user_id": "f372de24e8294782a7cf843619f8f091",
+                "fullname": "Alex Evans"
+            },
+            "cost_center": "",
+            "cost_centers": [
+                {
+                    "id": "cost_center",
+                    "title": "Цель",
+                    "value": ""
+                }
+            ],
+            "application": "corpweb",
+            "application_translate": "Личный кабинет",
+            "class": "econom",
+            "finished_date": "2023-02-12T16:30:40",
+            "cost": 0.0,
+            "cost_with_vat": "0.00",
+            "destination": {
+                "fullname": "Свердловская область, Екатеринбург, проспект Ленина, 32"
+            }
+        },
+        {
+            "_id": "b76842b4c4bdddc9914b4b58dd0346f8",
+            "status": {
+                "full": "complete",
+                "simple": "finished",
+                "description": ""
+            },
+            "due_date": "2023-02-12T16:08:40",
+            "source": {
+                "fullname": "Москва, Пресненская набережная, 8с1"
+            },
+            "corp_user": {
+                "user_id": "f372de24e8294782a7cf843619f8f091",
+                "fullname": "Alex Evans"
+            },
+            "cost_center": "",
+            "cost_centers": [
+                {
+                    "id": "cost_center",
+                    "title": "Цель",
+                    "value": ""
+                }
+            ],
+            "application": "corpweb",
+            "application_translate": "Личный кабинет",
+            "class": "econom",
+            "finished_date": "2023-02-12T16:11:29",
+            "cost": 302.0,
+            "cost_with_vat": "362.40",
+            "destination": {
+                "fullname": "Москва, Шмитовский проезд, 32Ас1"
+            }
+        },
+        {
+            "_id": "1a93bdb0420fd401b5b692a2328dac9e",
+            "status": {
+                "full": "complete",
+                "simple": "finished",
+                "description": ""
+            },
+            "due_date": "2023-02-01T14:41:13",
+            "source": {
+                "fullname": "Москва, улица Льва Толстого, 16",
+                "extra_data": {
+                    "comment": "my comment",
+                    "apartment": "1",
+                    "floor": "1",
+                    "contact_phone": "+79031111111"
+                }
+            },
+            "corp_user": {
+                "user_id": "606f2cbcc487454896a715d5d11fb489",
+                "fullname": ""
+            },
+            "cost_center": "",
+            "application": "corpapi",
+            "application_translate": "corpapi",
+            "class": "express",
+            "finished_date": "2023-02-01T15:20:10",
+            "cost": 452.0,
+            "cost_with_vat": "542.40",
+            "destination": {
+                "fullname": "Москва, Тверской бульвар, 1",
+                "extra_data": {
+                    "comment": "33",
+                    "apartment": "123",
+                    "floor": "2",
+                    "contact_phone": "+79032222222"
+                }
+            }
+        },
+        {
+            "_id": "487a9810647fcd888d5350ac40339586",
+            "status": {
+                "full": "cancelled",
+                "simple": "finished",
+                "description": ""
+            },
+            "due_date": "2023-01-28T08:11:55",
+            "source": {
+                "fullname": "Москва, Красная площадь, 3"
+            },
+            "corp_user": {
+                "user_id": "3b5ab98c5ebd4cd4b90b6d20807ffcf7",
+                "fullname": "Джон Джонович"
+            },
+            "cost_center": "",
+            "cost_centers": [
+                {
+                    "id": "cost_center",
+                    "title": "Цель",
+                    "value": ""
+                }
+            ],
+            "application": "corpweb",
+            "application_translate": "Личный кабинет",
+            "class": "econom",
+            "finished_date": "2023-01-27T08:20:47",
+            "cost": 0.0,
+            "cost_with_vat": "0.00",
+            "destination": {
+                "fullname": "Москва, Центральный административный округ, Тверской район, Театральный проезд, 5с1"
+            }
+        },
+        {
+            "_id": "7f50253cc752227dba5b8542fa87c2c9",
+            "status": {
+                "full": "complete",
+                "simple": "finished",
+                "description": ""
+            },
+            "due_date": "2023-01-27T08:27:09",
+            "source": {
+                "fullname": "Москва, Красная площадь, 3"
+            },
+            "corp_user": {
+                "user_id": "3b5ab98c5ebd4cd4b90b6d20807ffcf7",
+                "fullname": "Джон Джонович"
+            },
+            "cost_center": "",
+            "cost_centers": [
+                {
+                    "id": "cost_center",
+                    "title": "Цель",
+                    "value": ""
+                }
+            ],
+            "application": "corpweb",
+            "application_translate": "Личный кабинет",
+            "class": "econom",
+            "finished_date": "2023-01-27T08:38:19",
+            "cost": 881.0,
+            "cost_with_vat": "1057.20",
+            "destination": {
+                "fullname": "Москва, Центральный административный округ, Тверской район, Театральный проезд, 5с1"
+            }
+        },
+        {
+            "_id": "4c0e35c8fc10312b81bf58459613396b",
+            "status": {
+                "full": "complete",
+                "simple": "finished",
+                "description": ""
+            },
+            "due_date": "2023-01-27T08:24:57",
+            "source": {
+                "fullname": "Москва, Красная площадь, 3"
+            },
+            "corp_user": {
+                "user_id": "3b5ab98c5ebd4cd4b90b6d20807ffcf7",
+                "fullname": "Джон Джонович"
+            },
+            "cost_center": "",
+            "cost_centers": [
+                {
+                    "id": "cost_center",
+                    "title": "Цель",
+                    "value": ""
+                }
+            ],
+            "application": "corpweb",
+            "application_translate": "Личный кабинет",
+            "class": "econom",
+            "finished_date": "2023-01-27T09:24:57",
+            "cost": 0.0,
+            "cost_with_vat": "0.00",
+            "destination": {
+                "fullname": "Москва, Центральный административный округ, Тверской район, Театральный проезд, 5с1"
+            }
+        },
+        {
+            "_id": "04d045918e2a135185c20c6298bca818",
+            "status": {
+                "full": "complete",
+                "simple": "finished",
+                "description": ""
+            },
+            "due_date": "2023-01-24T17:54:22",
+            "source": {
+                "fullname": "Москва, Красная площадь, 3"
+            },
+            "corp_user": {
+                "user_id": "3b5ab98c5ebd4cd4b90b6d20807ffcf7",
+                "fullname": "Джон Джонович"
+            },
+            "cost_center": "",
+            "cost_centers": [
+                {
+                    "id": "cost_center",
+                    "title": "Цель",
+                    "value": "123"
+                }
+            ],
+            "application": "corpweb",
+            "application_translate": "Личный кабинет",
+            "class": "econom",
+            "finished_date": "2023-01-24T18:54:22",
+            "cost": 0.0,
+            "cost_with_vat": "0.00",
+            "destination": {
+                "fullname": "Москва, Центральный административный округ, Тверской район, Театральный проезд, 5с1"
+            }
+        },
+        {
+            "_id": "1a14ebf936a738e0a27fc4252fac9b06",
+            "status": {
+                "full": "expired",
+                "simple": "finished",
+                "description": ""
+            },
+            "due_date": "2023-01-24T17:26:05",
+            "source": {
+                "fullname": "Свердловская область, Екатеринбург, проспект Ленина, 49"
+            },
+            "corp_user": {
+                "user_id": "3b5ab98c5ebd4cd4b90b6d20807ffcf7",
+                "fullname": "Джон Джонович"
+            },
+            "cost_center": "",
+            "cost_centers": [
+                {
+                    "id": "cost_center",
+                    "title": "Цель",
+                    "value": ""
+                }
+            ],
+            "application": "corpweb",
+            "application_translate": "Личный кабинет",
+            "class": "econom",
+            "finished_date": "2023-01-24T17:19:05",
+            "cost": 0.0,
+            "cost_with_vat": "0.00",
+            "destination": {
+                "fullname": "Свердловская область, Екатеринбург, Вокзальная улица, 22"
+            }
+        },
+        {
+            "_id": "340978e576ba1dbf95c2a8612eff14dd",
+            "status": {
+                "full": "expired",
+                "simple": "finished",
+                "description": ""
+            },
+            "due_date": "2023-01-24T15:53:12",
+            "source": {
+                "fullname": "Москва, Красная площадь, 3"
+            },
+            "corp_user": {
+                "user_id": "a49d30fda0ce416abe438d26cc17a8d8",
+                "fullname": "Новый сотрудник"
+            },
+            "cost_center": "",
+            "application": "corpweb",
+            "application_translate": "Личный кабинет",
+            "class": "vip",
+            "finished_date": "2023-01-24T15:48:13",
+            "cost": 0.0,
+            "cost_with_vat": "0.00",
+            "destination": {
+                "fullname": "Москва, Малая Бронная улица, 13"
+            },
+            "interim_destinations": [
+                {
+                    "fullname": "Москва, Никольская улица, 7-9с4"
+                },
+                {
+                    "fullname": "Москва, Центральный административный округ, Тверской район, Театральный проезд, 5с1"
+                }
+            ],
+            "combo_order": {
+                "delivery_id": "cd79f03d54b4401193943783b680f43f"
+            }
+        },
+        {
+            "_id": "cb20987b4dea22c9b022039f884b8ebd",
+            "status": {
+                "full": "expired",
+                "simple": "finished",
+                "description": ""
+            },
+            "due_date": "2023-01-24T15:53:12",
+            "source": {
+                "fullname": "Москва, Красная площадь, 3"
+            },
+            "corp_user": {
+                "user_id": "a85dd6947ced40dea44ac68895c07b61",
+                "fullname": "прив     ет"
+            },
+            "cost_center": "",
+            "application": "corpweb",
+            "application_translate": "Личный кабинет",
+            "class": "vip",
+            "finished_date": "2023-01-24T15:48:13",
+            "cost": 0.0,
+            "cost_with_vat": "0.00",
+            "destination": {
+                "fullname": "Москва, 15-я Парковая улица, 47к1, подъезд 4"
+            },
+            "interim_destinations": [
+                {
+                    "fullname": "Москва, Красная площадь, 3"
+                }
+            ],
+            "combo_order": {
+                "delivery_id": "cd79f03d54b4401193943783b680f43f"
+            }
+        },
+        {
+            "_id": "0a32b600a622d4358c0f2c9487bf144c",
+            "status": {
+                "full": "cancelled",
+                "simple": "finished",
+                "description": ""
+            },
+            "due_date": "2023-01-24T13:06:51",
+            "source": {
+                "fullname": "Москва, Красная площадь, 3"
+            },
+            "corp_user": {
+                "user_id": "3b5ab98c5ebd4cd4b90b6d20807ffcf7",
+                "fullname": "Джон Джонович"
+            },
+            "cost_center": "",
+            "application": "corpweb",
+            "application_translate": "Личный кабинет",
+            "class": "vip",
+            "finished_date": "2023-01-24T12:57:13",
+            "cost": 0.0,
+            "cost_with_vat": "0.00",
+            "destination": {
+                "fullname": "Москва, Красная площадь, 3"
+            },
+            "interim_destinations": [
+                {
+                    "fullname": "Москва, Центральный административный округ, Тверской район, Театральный проезд, 5с1"
+                }
+            ],
+            "combo_order": {
+                "delivery_id": "855553843eb347419527b5ec1d75407b"
+            }
+        },
+        {
+            "_id": "a872a0a312bcdb96af6e6c93dcd4c9ed",
+            "status": {
+                "full": "expired",
+                "simple": "finished",
+                "description": ""
+            },
+            "due_date": "2023-01-24T12:59:52",
+            "source": {
+                "fullname": "Свердловская область, Екатеринбург, проспект Ленина, 49"
+            },
+            "corp_user": {
+                "user_id": "3b5ab98c5ebd4cd4b90b6d20807ffcf7",
+                "fullname": "Джон Джонович"
+            },
+            "cost_center": "",
+            "cost_centers": [
+                {
+                    "id": "cost_center",
+                    "title": "Цель",
+                    "value": ""
+                }
+            ],
+            "application": "corpweb",
+            "application_translate": "Личный кабинет",
+            "class": "econom",
+            "finished_date": "2023-01-24T12:52:52",
+            "cost": 0.0,
+            "cost_with_vat": "0.00",
+            "destination": {
+                "fullname": "Свердловская область, Екатеринбург, Вокзальная улица, 22"
+            }
+        },
+        {
+            "_id": "e7b097202eadc31ebe9f2a86b7c453dc",
+            "status": {
+                "full": "expired",
+                "simple": "finished",
+                "description": ""
+            },
+            "due_date": "2023-01-24T07:25:34",
+            "source": {
+                "fullname": "Москва, улица Кузнецкий Мост, 24"
+            },
+            "corp_user": {
+                "user_id": "43e0f9ffd9df463aa4eee556a0b3ac65",
+                "fullname": "Володя"
+            },
+            "cost_center": "",
+            "cost_centers": [
+                {
+                    "id": "cost_center",
+                    "title": "Цель",
+                    "value": ""
+                }
+            ],
+            "application": "corpweb",
+            "application_translate": "Личный кабинет",
+            "class": "econom",
+            "finished_date": "2023-01-24T07:18:35",
+            "cost": 0.0,
+            "cost_with_vat": "0.00",
+            "destination": {
+                "fullname": "Москва, Центральный административный округ, Тверской район, Театральный проезд, 5с1"
+            }
+        },
+        {
+            "_id": "07a22aa47f343e5a99ec2a537aa0bdad",
+            "status": {
+                "full": "cancelled",
+                "simple": "finished",
+                "description": ""
+            },
+            "due_date": "2023-01-23T12:21:02",
+            "source": {
+                "fullname": "Москва, Красная площадь, 3"
+            },
+            "corp_user": {
+                "user_id": "e5e18ca75476471bb7e3d0857a8f2067",
+                "fullname": "Иванов Иван"
+            },
+            "cost_center": "",
+            "cost_centers": [
+                {
+                    "id": "cost_center",
+                    "title": "Цель",
+                    "value": ""
+                }
+            ],
+            "application": "corpweb",
+            "application_translate": "Личный кабинет",
+            "class": "econom",
+            "finished_date": "2023-01-23T12:11:08",
+            "cost": 0.0,
+            "cost_with_vat": "0.00",
+            "destination": {
+                "fullname": "Москва, Центральный административный округ, Тверской район, Театральный проезд, 5с1"
+            }
+        },
+        {
+            "_id": "e428149a3d76ea5aad56dd0f60755fcc",
+            "status": {
+                "full": "cancelled",
+                "simple": "finished",
+                "description": ""
+            },
+            "due_date": "2023-01-23T12:19:28",
+            "source": {
+                "fullname": "Москва, Красная площадь, 3"
+            },
+            "corp_user": {
+                "user_id": "e5e18ca75476471bb7e3d0857a8f2067",
+                "fullname": "Иванов Иван"
+            },
+            "cost_center": "",
+            "cost_centers": [
+                {
+                    "id": "cost_center",
+                    "title": "Цель",
+                    "value": ""
+                }
+            ],
+            "application": "corpweb",
+            "application_translate": "Личный кабинет",
+            "class": "econom",
+            "finished_date": "2023-01-23T12:09:31",
+            "cost": 0.0,
+            "cost_with_vat": "0.00",
+            "destination": {
+                "fullname": "Москва, Центральный административный округ, Тверской район, Театральный проезд, 5с1"
+            }
+        },
+        {
+            "_id": "4786ea6120ebd564b7ba4df6c1c2673a",
+            "status": {
+                "full": "cancelled",
+                "simple": "finished",
+                "description": ""
+            },
+            "due_date": "2023-01-23T12:17:49",
+            "source": {
+                "fullname": "Москва, улица Ильинка, 5/2"
+            },
+            "corp_user": {
+                "user_id": "e5e18ca75476471bb7e3d0857a8f2067",
+                "fullname": "Иванов Иван"
+            },
+            "cost_center": "",
+            "cost_centers": [
+                {
+                    "id": "cost_center",
+                    "title": "Цель",
+                    "value": ""
+                }
+            ],
+            "application": "corpweb",
+            "application_translate": "Личный кабинет",
+            "class": "econom",
+            "finished_date": "2023-01-23T12:07:54",
+            "cost": 0.0,
+            "cost_with_vat": "0.00",
+            "destination": {
+                "fullname": "Москва, Красная площадь, 5"
+            }
+        },
+        {
+            "_id": "95d8a89a46c22c26b547e58456264c21",
+            "status": {
+                "full": "complete",
+                "simple": "finished",
+                "description": ""
+            },
+            "due_date": "2023-01-23T08:16:35",
+            "source": {
+                "fullname": "Москва, улица Большая Лубянка, 16с1"
+            },
+            "corp_user": {
+                "user_id": "43e0f9ffd9df463aa4eee556a0b3ac65",
+                "fullname": "Володя"
+            },
+            "cost_center": "",
+            "cost_centers": [
+                {
+                    "id": "cost_center",
+                    "title": "Цель",
+                    "value": ""
+                }
+            ],
+            "application": "corpweb",
+            "application_translate": "Личный кабинет",
+            "class": "econom",
+            "finished_date": "2023-01-23T08:15:56",
+            "cost": 383.0,
+            "cost_with_vat": "459.60",
+            "destination": {
+                "fullname": "Москва, улица Большая Лубянка, 24/15с1"
+            }
+        },
+        {
+            "_id": "2b71ee099787c24296c94e380c467a8c",
+            "status": {
+                "full": "cancelled",
+                "simple": "finished",
+                "description": ""
+            },
+            "due_date": "2023-01-23T08:07:55",
+            "source": {
+                "fullname": "Москва, Красная площадь, 3"
+            },
+            "corp_user": {
+                "user_id": "43e0f9ffd9df463aa4eee556a0b3ac65",
+                "fullname": "Володя"
+            },
+            "cost_center": "",
+            "cost_centers": [
+                {
+                    "id": "cost_center",
+                    "title": "Цель",
+                    "value": ""
+                }
+            ],
+            "application": "corpweb",
+            "application_translate": "Личный кабинет",
+            "class": "econom",
+            "finished_date": "2023-01-23T08:11:32",
+            "cost": 0.0,
+            "cost_with_vat": "0.00",
+            "destination": {
+                "fullname": "Москва, Центральный административный округ, Тверской район, Театральный проезд, 5с1"
+            }
+        },
+        {
+            "_id": "6423e00f40691f8d913fff33e2281b8b",
+            "status": {
+                "full": "complete",
+                "simple": "finished",
+                "description": ""
+            },
+            "due_date": "2023-01-20T11:51:23",
+            "source": {
+                "fullname": "Москва, Лубянская площадь, вл1соор1"
+            },
+            "corp_user": {
+                "user_id": "f372de24e8294782a7cf843619f8f091",
+                "fullname": "Alex Evans"
+            },
+            "cost_center": "",
+            "cost_centers": [
+                {
+                    "id": "cost_center",
+                    "title": "Цель",
+                    "value": ""
+                }
+            ],
+            "application": "corpweb",
+            "application_translate": "Личный кабинет",
+            "class": "econom",
+            "finished_date": "2023-01-20T11:50:51",
+            "cost": 169.0,
+            "cost_with_vat": "202.80",
+            "destination": {
+                "fullname": "Москва, Новая площадь, 3/4"
+            }
+        },
+        {
+            "_id": "71b3efc467f810aaa64dc31357d4776b",
+            "status": {
+                "full": "cancelled",
+                "simple": "finished",
+                "description": ""
+            },
+            "due_date": "2023-01-19T12:35:14",
+            "source": {
+                "fullname": "Москва, Красная площадь, 3"
+            },
+            "corp_user": {
+                "user_id": "f372de24e8294782a7cf843619f8f091",
+                "fullname": "Alex Evans"
+            },
+            "cost_center": "",
+            "cost_centers": [
+                {
+                    "id": "cost_center",
+                    "title": "Цель",
+                    "value": ""
+                }
+            ],
+            "application": "corpweb",
+            "application_translate": "Личный кабинет",
+            "class": "econom",
+            "finished_date": "2023-01-19T12:25:22",
+            "cost": 0.0,
+            "cost_with_vat": "0.00",
+            "destination": {
+                "fullname": "Москва, Красная площадь, 3"
+            }
+        },
+        {
+            "_id": "985f49d8a9c33bfeac125962100535b2",
+            "status": {
+                "full": "complete",
+                "simple": "finished",
+                "description": ""
+            },
+            "due_date": "2023-01-19T10:51:42",
+            "source": {
+                "fullname": "Москва, Красная площадь, 3"
+            },
+            "corp_user": {
+                "user_id": "e5e18ca75476471bb7e3d0857a8f2067",
+                "fullname": "Иванов Иван"
+            },
+            "cost_center": "",
+            "cost_centers": [
+                {
+                    "id": "cost_center",
+                    "title": "Цель",
+                    "value": "123213"
+                }
+            ],
+            "application": "corpweb",
+            "application_translate": "Личный кабинет",
+            "class": "econom",
+            "finished_date": "2023-01-19T10:53:19",
+            "cost": 386.0,
+            "cost_with_vat": "463.20",
+            "destination": {
+                "fullname": "Москва, Красная площадь, 3"
+            }
+        },
+        {
+            "_id": "08305586fa3dd34f9426ae883a7d71a9",
+            "status": {
+                "full": "cancelled",
+                "simple": "finished",
+                "description": ""
+            },
+            "due_date": "2023-01-19T10:50:29",
+            "source": {
+                "fullname": "Москва, Красная площадь, 3"
+            },
+            "corp_user": {
+                "user_id": "e5e18ca75476471bb7e3d0857a8f2067",
+                "fullname": "Иванов Иван"
+            },
+            "cost_center": "",
+            "cost_centers": [
+                {
+                    "id": "cost_center",
+                    "title": "Цель",
+                    "value": "12321321"
+                }
+            ],
+            "application": "corpweb",
+            "application_translate": "Личный кабинет",
+            "class": "econom",
+            "finished_date": "2023-01-19T10:45:46",
+            "cost": 0.0,
+            "cost_with_vat": "0.00",
+            "destination": {
+                "fullname": "Москва, Красная площадь, 3"
+            }
+        },
+        {
+            "_id": "4965d4d47a993430bfb87ccda4a710bf",
+            "status": {
+                "full": "expired",
+                "simple": "finished",
+                "description": ""
+            },
+            "due_date": "2023-01-16T06:25:30",
+            "source": {
+                "fullname": "Санкт-Петербург, проспект Славы, 7к1, подъезд 5"
+            },
+            "corp_user": {
+                "user_id": "fe72927e91ba43afafa7ff237509479d",
+                "fullname": "В группе"
+            },
+            "cost_center": "",
+            "application": "corpweb",
+            "application_translate": "Личный кабинет",
+            "class": "econom",
+            "finished_date": "2023-01-16T06:20:30",
+            "cost": 0.0,
+            "cost_with_vat": "0.00",
+            "destination": {
+                "fullname": "Санкт-Петербург, улица Турку, 27, подъезд 5"
+            },
+            "interim_destinations": [
+                {
+                    "fullname": "Санкт-Петербург, улица Турку, 9к5, подъезд 4"
+                },
+                {
+                    "fullname": "Санкт-Петербург, Бухарестская улица, 118к1, подъезд 3"
+                }
+            ],
+            "combo_order": {
+                "delivery_id": "98640b844ea64f7982e9b239f31c5dcf"
+            }
+        },
+        {
+            "_id": "07459a96aadd25cf8f1671e0596486ec",
+            "status": {
+                "full": "expired",
+                "simple": "finished",
+                "description": ""
+            },
+            "due_date": "2023-01-16T06:16:43",
+            "source": {
+                "fullname": "Санкт-Петербург, проспект Славы, 7к1, подъезд 5"
+            },
+            "corp_user": {
+                "user_id": "fe72927e91ba43afafa7ff237509479d",
+                "fullname": "В группе"
+            },
+            "cost_center": "",
+            "application": "corpweb",
+            "application_translate": "Личный кабинет",
+            "class": "econom",
+            "finished_date": "2023-01-16T06:11:43",
+            "cost": 0.0,
+            "cost_with_vat": "0.00",
+            "destination": {
+                "fullname": "Санкт-Петербург, улица Турку, 27, подъезд 5"
+            },
+            "interim_destinations": [
+                {
+                    "fullname": "Санкт-Петербург, улица Турку, 9к5, подъезд 4"
+                },
+                {
+                    "fullname": "Санкт-Петербург, Бухарестская улица, 120А"
+                }
+            ],
+            "combo_order": {
+                "delivery_id": "b589555af3ab4afd95d6a57dd70767d8"
+            }
+        },
+        {
+            "_id": "f96bd852b9d92cbc8dec273848bd1d34",
+            "status": {
+                "full": "complete",
+                "simple": "finished",
+                "description": ""
+            },
+            "due_date": "2023-01-08T10:15:20",
+            "source": {
+                "fullname": "Омск, проспект Карла Маркса, 18к28"
+            },
+            "corp_user": {
+                "user_id": "43e0f9ffd9df463aa4eee556a0b3ac65",
+                "fullname": "Володя"
+            },
+            "cost_center": "",
+            "application": "corpweb",
+            "application_translate": "Личный кабинет",
+            "class": "business",
+            "finished_date": "2023-01-08T11:15:20",
+            "cost": 0.0,
+            "cost_with_vat": "0.00",
+            "destination": {
+                "fullname": "Омск, микрорайон Заозёрный, улица Бородина, 4/1, подъезд 2"
+            },
+            "interim_destinations": [
+                {
+                    "fullname": "Омск, микрорайон Привокзальный, Красный переулок, 1, подъезд 2"
+                },
+                {
+                    "fullname": "Омск, улица 20 лет РККА, 252, подъезд 1"
+                }
+            ],
+            "combo_order": {
+                "delivery_id": "254a5290317a47368bb03f3d731b16a5"
+            }
+        },
+        {
+            "_id": "473d1ba268c927d9b06d15f229e8e440",
+            "status": {
+                "full": "complete",
+                "simple": "finished",
+                "description": ""
+            },
+            "due_date": "2023-01-07T15:44:43",
+            "source": {
+                "fullname": "Москва, 3-я Хорошёвская улица, 2с1"
+            },
+            "corp_user": {
+                "user_id": "014fe4894c734f139244eb1a46978cd5",
+                "fullname": ""
+            },
+            "cost_center": "",
+            "application": "corpweb",
+            "application_translate": "Личный кабинет",
+            "class": "business",
+            "finished_date": "2023-01-07T16:47:14",
+            "cost": 0.0,
+            "cost_with_vat": "0.00",
+            "destination": {
+                "fullname": "Москва, посёлок Коммунарка, улица Липовый Парк, 7, подъезд 8"
+            },
+            "interim_destinations": [
+                {
+                    "fullname": "Москва, улица Куусинена, 5"
+                },
+                {
+                    "fullname": "Москва, Средний Тишинский переулок, 28"
+                }
+            ],
+            "combo_order": {
+                "delivery_id": "4b0ef8c098724de7b9bc904953593283"
+            }
+        },
+        {
+            "_id": "d5d275d8c5c4ec95876b923479fbeb68",
+            "status": {
+                "full": "complete",
+                "simple": "finished",
+                "description": ""
+            },
+            "due_date": "2023-01-07T15:42:39",
+            "source": {
+                "fullname": "Москва, 3-я Хорошёвская улица, 2с1"
+            },
+            "corp_user": {
+                "user_id": "c93b4d6956534623b5e99924b7359e91",
+                "fullname": "аляля"
+            },
+            "cost_center": "",
+            "application": "corpweb",
+            "application_translate": "Личный кабинет",
+            "class": "business",
+            "finished_date": "2023-01-07T15:47:29",
+            "cost": 559.0,
+            "cost_with_vat": "670.80",
+            "destination": {
+                "fullname": "Москва, 3-я Песчаная улица, 2А"
+            },
+            "interim_destinations": [
+                {
+                    "fullname": "Москва, Хорошёвское шоссе, 43"
+                }
+            ],
+            "combo_order": {
+                "delivery_id": "4b0ef8c098724de7b9bc904953593283"
+            }
+        },
+        {
+            "_id": "aa51119d922220359d6f88ef8fea9f2d",
+            "status": {
+                "full": "cancelled",
+                "simple": "finished",
+                "description": ""
+            },
+            "due_date": "2023-01-07T15:37:35",
+            "source": {
+                "fullname": "Москва, Красная площадь, 3"
+            },
+            "corp_user": {
+                "user_id": "fbfb5e49cb0b43c6b1c8f1871c1fa80b",
+                "fullname": "Вне Подразделения"
+            },
+            "cost_center": "",
+            "application": "corpweb",
+            "application_translate": "Личный кабинет",
+            "class": "business",
+            "finished_date": "2023-01-07T15:25:59",
+            "cost": 0.0,
+            "cost_with_vat": "0.00",
+            "destination": {
+                "fullname": "Москва, Красная площадь, 3"
+            },
+            "interim_destinations": [
+                {
+                    "fullname": "Москва, Никольская улица, 7-9с4"
+                }
+            ],
+            "combo_order": {
+                "delivery_id": "c385f8da387348039564b23ac219dbad"
+            }
+        },
+        {
+            "_id": "a38024f8ca6511a6b19a24643d341608",
+            "status": {
+                "full": "complete",
+                "simple": "finished",
+                "description": ""
+            },
+            "due_date": "2023-01-07T15:22:58",
+            "source": {
+                "fullname": "Москва, Красная площадь, 3"
+            },
+            "corp_user": {
+                "user_id": "fe72927e91ba43afafa7ff237509479d",
+                "fullname": "В группе"
+            },
+            "cost_center": "",
+            "application": "corpweb",
+            "application_translate": "Личный кабинет",
+            "class": "business",
+            "finished_date": "2023-01-07T16:22:58",
+            "cost": 0.0,
+            "cost_with_vat": "0.00",
+            "destination": {
+                "fullname": "Москва, Красная площадь, 3"
+            },
+            "interim_destinations": [
+                {
+                    "fullname": "Москва, Никольская улица, 7-9с4"
+                }
+            ],
+            "combo_order": {
+                "delivery_id": "ed9cee9fe9e14ae59332e1ef3021cf12"
+            }
+        },
+        {
+            "_id": "a41054125546d7fc8e27cb198e44b3b2",
+            "status": {
+                "full": "complete",
+                "simple": "finished",
+                "description": ""
+            },
+            "due_date": "2023-01-07T09:44:00",
+            "source": {
+                "fullname": "Москва, Красная площадь, 3"
+            },
+            "corp_user": {
+                "user_id": "fe72927e91ba43afafa7ff237509479d",
+                "fullname": "В группе"
+            },
+            "cost_center": "",
+            "cost_centers": [
+                {
+                    "id": "cost_center",
+                    "title": "Цель",
+                    "value": "213"
+                },
+                {
+                    "id": "0ddf66708f0245b0a988c68d1cd886cf",
+                    "title": "Цель поездки",
+                    "value": "По работе 1"
+                },
+                {
+                    "id": "7ba49ce6f64f4c029eb46d60cbc9e344",
+                    "title": "Номер дела",
+                    "value": "По работе 2"
+                }
+            ],
+            "application": "corpweb",
+            "application_translate": "Личный кабинет",
+            "class": "business",
+            "finished_date": "2023-01-07T09:41:04",
+            "cost": 264.0,
+            "cost_with_vat": "316.80",
+            "destination": {
+                "fullname": "Москва, Красная площадь, 3"
+            }
+        },
+        {
+            "_id": "ffc01961126a147e877ce302f95e94a0",
+            "status": {
+                "full": "cancelled",
+                "simple": "finished",
+                "description": ""
+            },
+            "due_date": "2023-01-06T18:13:00",
+            "source": {
+                "fullname": "Свердловская область, Екатеринбург, проспект Ленина, 49"
+            },
+            "corp_user": {
+                "user_id": "fbfb5e49cb0b43c6b1c8f1871c1fa80b",
+                "fullname": "Вне Подразделения"
+            },
+            "cost_center": "Основной центр затрат",
+            "cost_centers": [
+                {
+                    "id": "cost_center",
+                    "title": "Центр затрат",
+                    "value": "anything"
+                },
+                {
+                    "id": "0ddf66708f0245b0a988c68d1cd886cf",
+                    "title": "Цель поездки",
+                    "value": "цель 1"
+                },
+                {
+                    "id": "7ba49ce6f64f4c029eb46d60cbc9e344",
+                    "title": "Номер дела",
+                    "value": ""
+                }
+            ],
+            "application": "corpapi",
+            "application_translate": "corpapi",
+            "class": "econom",
+            "finished_date": "2023-01-06T11:10:46",
+            "cost": 0.0,
+            "cost_with_vat": "0.00",
+            "destination": {
+                "fullname": "Свердловская область, Екатеринбург, улица Карла Либкнехта, 22"
+            }
+        },
+        {
+            "_id": "16afb0307644e55e83e77c49f5534eb1",
+            "status": {
+                "full": "complete",
+                "simple": "finished",
+                "description": ""
+            },
+            "due_date": "2023-01-04T17:58:59",
+            "source": {
+                "fullname": "Москва, Красная площадь, 3"
+            },
+            "corp_user": {
+                "user_id": "e5e18ca75476471bb7e3d0857a8f2067",
+                "fullname": "Иванов Иван"
+            },
+            "cost_center": "",
+            "cost_centers": [
+                {
+                    "id": "0ddf66708f0245b0a988c68d1cd886cf",
+                    "title": "Цель поездки",
+                    "value": "QwerЙцук12345!\"№;%:?()_-+=|@#$%^"
+                }
+            ],
+            "application": "corpweb",
+            "application_translate": "Личный кабинет",
+            "class": "business",
+            "finished_date": "2023-01-04T17:39:44",
+            "cost": 431.0,
+            "cost_with_vat": "517.20",
+            "destination": {
+                "fullname": "Москва, Красная площадь, 3"
+            }
+        },
+        {
+            "_id": "0a7e3f8c158eee6d8a410467b53089d9",
+            "status": {
+                "full": "complete",
+                "simple": "finished",
+                "description": ""
+            },
+            "due_date": "2023-01-04T17:51:42",
+            "source": {
+                "fullname": "Москва, Красная площадь, 3"
+            },
+            "corp_user": {
+                "user_id": "e5e18ca75476471bb7e3d0857a8f2067",
+                "fullname": "Иванов Иван"
+            },
+            "cost_center": "",
+            "cost_centers": [
+                {
+                    "id": "0ddf66708f0245b0a988c68d1cd886cf",
+                    "title": "Цель поездки",
+                    "value": "0123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789"
+                }
+            ],
+            "application": "corpweb",
+            "application_translate": "Личный кабинет",
+            "class": "business",
+            "finished_date": "2023-01-04T18:51:42",
+            "cost": 0.0,
+            "cost_with_vat": "0.00",
+            "destination": {
+                "fullname": "Москва, Красная площадь, 3"
+            }
+        },
+        {
+            "_id": "7245198b0d95ea65b7aec6f496242c66",
+            "status": {
+                "full": "expired",
+                "simple": "finished",
+                "description": ""
+            },
+            "due_date": "2023-01-04T17:45:02",
+            "source": {
+                "fullname": "Москва, Красная площадь, 3"
+            },
+            "corp_user": {
+                "user_id": "e5e18ca75476471bb7e3d0857a8f2067",
+                "fullname": "Иванов Иван"
+            },
+            "cost_center": "",
+            "cost_centers": [
+                {
+                    "id": "0ddf66708f0245b0a988c68d1cd886cf",
+                    "title": "Цель поездки",
+                    "value": "1"
+                }
+            ],
+            "application": "corpweb",
+            "application_translate": "Личный кабинет",
+            "class": "business",
+            "finished_date": "2023-01-04T17:38:02",
+            "cost": 0.0,
+            "cost_with_vat": "0.00",
+            "destination": {
+                "fullname": "Москва, Красная площадь, 3"
+            }
+        },
+        {
+            "_id": "ec76b25c35aad527bfbb5e2b5a1f81be",
+            "status": {
+                "full": "cancelled",
+                "simple": "finished",
+                "description": ""
+            },
+            "due_date": "2023-01-04T17:35:02",
+            "source": {
+                "fullname": "Москва, Красная площадь, 3"
+            },
+            "corp_user": {
+                "user_id": "e5e18ca75476471bb7e3d0857a8f2067",
+                "fullname": "Иванов Иван"
+            },
+            "cost_center": "",
+            "cost_centers": [
+                {
+                    "id": "0ddf66708f0245b0a988c68d1cd886cf",
+                    "title": "Цель поездки",
+                    "value": ""
+                }
+            ],
+            "application": "corpweb",
+            "application_translate": "Личный кабинет",
+            "class": "business",
+            "finished_date": "2023-01-04T17:25:10",
+            "cost": 0.0,
+            "cost_with_vat": "0.00",
+            "destination": {
+                "fullname": "Москва, Красная площадь, 3"
+            }
+        },
+        {
+            "_id": "eb32883cddbf14b38230b46ae238b78e",
+            "status": {
+                "full": "cancelled",
+                "simple": "finished",
+                "description": ""
+            },
+            "due_date": "2023-01-04T17:25:25",
+            "source": {
+                "fullname": "Москва, Красная площадь, 3"
+            },
+            "corp_user": {
+                "user_id": "e5e18ca75476471bb7e3d0857a8f2067",
+                "fullname": "Иванов Иван"
+            },
+            "cost_center": "",
+            "cost_centers": [
+                {
+                    "id": "0ddf66708f0245b0a988c68d1cd886cf",
+                    "title": "Цель поездки",
+                    "value": ""
+                }
+            ],
+            "application": "corpweb",
+            "application_translate": "Личный кабинет",
+            "class": "business",
+            "finished_date": "2023-01-04T17:15:29",
+            "cost": 0.0,
+            "cost_with_vat": "0.00",
+            "destination": {
+                "fullname": "Москва, Красная площадь, 3"
+            }
+        },
+        {
+            "_id": "fa05a703902814acbdfb6e6a6eeb584a",
+            "status": {
+                "full": "cancelled",
+                "simple": "finished",
+                "description": ""
+            },
+            "due_date": "2023-01-04T17:23:27",
+            "source": {
+                "fullname": "Москва, Красная площадь, 3"
+            },
+            "corp_user": {
+                "user_id": "aead185a590b4d269eba96f0e5c5c084",
+                "fullname": "Макс Петров"
+            },
+            "cost_center": "",
+            "cost_centers": [
+                {
+                    "id": "cost_center",
+                    "title": "0w4ZaTLjR9klqPTXfcEXs36HJObMzd",
+                    "value": "йцуке"
+                }
+            ],
+            "application": "corpweb",
+            "application_translate": "Личный кабинет",
+            "class": "business",
+            "finished_date": "2023-01-04T17:13:31",
+            "cost": 0.0,
+            "cost_with_vat": "0.00",
+            "destination": {
+                "fullname": "Москва, Красная площадь, 3"
+            }
+        },
+        {
+            "_id": "38f196d38a81cb0c8db631dc6e97eb20",
+            "status": {
+                "full": "cancelled",
+                "simple": "finished",
+                "description": ""
+            },
+            "due_date": "2023-01-04T16:57:40",
+            "source": {
+                "fullname": "Москва, Красная площадь, 3"
+            },
+            "corp_user": {
+                "user_id": "b85be34d74a040dabed98f107b88a976",
+                "fullname": "В погразделении"
+            },
+            "cost_center": "",
+            "cost_centers": [
+                {
+                    "id": "cost_center",
+                    "title": "0w4ZaTLjR9klqPTXfcEXs36HJObMzd",
+                    "value": "йццук"
+                }
+            ],
+            "application": "corpweb",
+            "application_translate": "Личный кабинет",
+            "class": "business",
+            "finished_date": "2023-01-04T16:47:47",
+            "cost": 0.0,
+            "cost_with_vat": "0.00",
+            "destination": {
+                "fullname": "Москва, Красная площадь, 3"
+            }
+        },
+        {
+            "_id": "d540fcb4d401244081dadee695123b0b",
+            "status": {
+                "full": "complete",
+                "simple": "finished",
+                "description": ""
+            },
+            "due_date": "2023-01-04T09:48:46",
+            "source": {
+                "fullname": "Омск, 5-я Кордная улица, 63А, подъезд 1"
+            },
+            "corp_user": {
+                "user_id": "fe72927e91ba43afafa7ff237509479d",
+                "fullname": "В группе"
+            },
+            "cost_center": "",
+            "application": "corpweb",
+            "application_translate": "Личный кабинет",
+            "class": "business",
+            "finished_date": "2023-01-04T09:55:48",
+            "cost": 277.0,
+            "cost_with_vat": "332.40",
+            "destination": {
+                "fullname": "Омск, 3-я Молодёжная улица, 17"
+            },
+            "combo_order": {
+                "delivery_id": "4bff08ee3ec741c7a06f1a097844bbfa"
+            }
+        },
+        {
+            "_id": "c7797583117fcbd699a17207cee15fe7",
+            "status": {
+                "full": "complete",
+                "simple": "finished",
+                "description": ""
+            },
+            "due_date": "2023-01-04T09:43:20",
+            "source": {
+                "fullname": "Омск, проспект Карла Маркса, 18к28"
+            },
+            "corp_user": {
+                "user_id": "fe72927e91ba43afafa7ff237509479d",
+                "fullname": "В группе"
+            },
+            "cost_center": "",
+            "application": "corpweb",
+            "application_translate": "Личный кабинет",
+            "class": "business",
+            "finished_date": "2023-01-04T09:49:28",
+            "cost": 277.0,
+            "cost_with_vat": "332.40",
+            "destination": {
+                "fullname": "Омск, 5-я Кордная улица, 63А, подъезд 1"
+            },
+            "combo_order": {
+                "delivery_id": "97c40085eb8b4972a6db74149aa67fd2"
+            }
+        },
+        {
+            "_id": "14445d3510a83faba39b7ff637a18da8",
+            "status": {
+                "full": "cancelled",
+                "simple": "finished",
+                "description": ""
+            },
+            "due_date": "2023-01-04T09:23:09",
+            "source": {
+                "fullname": "Омск, проспект Карла Маркса, 18к28"
+            },
+            "corp_user": {
+                "user_id": "fe72927e91ba43afafa7ff237509479d",
+                "fullname": "В группе"
+            },
+            "cost_center": "",
+            "cost_centers": [
+                {
+                    "id": "cost_center",
+                    "title": "Центр затрат",
+                    "value": ""
+                },
+                {
+                    "id": "0ddf66708f0245b0a988c68d1cd886cf",
+                    "title": "Цель поездки",
+                    "value": ""
+                }
+            ],
+            "application": "corpweb",
+            "application_translate": "Личный кабинет",
+            "class": "business",
+            "finished_date": "2023-01-04T09:16:07",
+            "cost": 0.0,
+            "cost_with_vat": "0.00",
+            "destination": {
+                "fullname": "Омск, 5-я Кордная улица, 5"
+            }
+        },
+        {
+            "_id": "d0138dd5c5c7ebdb9407ae266e6a406a",
+            "status": {
+                "full": "expired",
+                "simple": "finished",
+                "description": ""
+            },
+            "due_date": "2022-12-23T18:13:00",
+            "source": {
+                "fullname": "Свердловская область, Екатеринбург, проспект Ленина, 49"
+            },
+            "corp_user": {
+                "user_id": "fbfb5e49cb0b43c6b1c8f1871c1fa80b",
+                "fullname": "Вне Подразделения"
+            },
+            "cost_center": "Основной центр затрат",
+            "cost_centers": [
+                {
+                    "id": "cost_center",
+                    "title": "Центр затрат",
+                    "value": "anything"
+                },
+                {
+                    "id": "0ddf66708f0245b0a988c68d1cd886cf",
+                    "title": "Цель поездки",
+                    "value": "цель 1"
+                },
+                {
+                    "id": "7ba49ce6f64f4c029eb46d60cbc9e344",
+                    "title": "Номер дела",
+                    "value": ""
+                }
+            ],
+            "application": "corpapi",
+            "application_translate": "corpapi",
+            "class": "econom",
+            "finished_date": "2022-12-23T18:13:00",
+            "cost": 0.0,
+            "cost_with_vat": "0.00",
+            "destination": {
+                "fullname": "Свердловская область, Екатеринбург, улица Карла Либкнехта, 22"
+            }
+        },
+        {
+            "_id": "76bdbf0d8bb72881ade296cc77c1e2ca",
+            "status": {
+                "full": "expired",
+                "simple": "finished",
+                "description": ""
+            },
+            "due_date": "2022-12-23T18:13:00",
+            "source": {
+                "fullname": "Свердловская область, Екатеринбург, проспект Ленина, 49"
+            },
+            "corp_user": {
+                "user_id": "fbfb5e49cb0b43c6b1c8f1871c1fa80b",
+                "fullname": "Вне Подразделения"
+            },
+            "cost_center": "Основной центр затрат",
+            "cost_centers": [
+                {
+                    "id": "cost_center",
+                    "title": "Центр затрат",
+                    "value": "anything"
+                },
+                {
+                    "id": "0ddf66708f0245b0a988c68d1cd886cf",
+                    "title": "Цель поездки",
+                    "value": "цель 1"
+                },
+                {
+                    "id": "7ba49ce6f64f4c029eb46d60cbc9e344",
+                    "title": "Номер дела",
+                    "value": ""
+                }
+            ],
+            "application": "corpapi",
+            "application_translate": "corpapi",
+            "class": "econom",
+            "finished_date": "2022-12-23T18:13:00",
+            "cost": 0.0,
+            "cost_with_vat": "0.00",
+            "destination": {
+                "fullname": "Свердловская область, Екатеринбург, улица Карла Либкнехта, 22"
+            }
+        },
+        {
+            "_id": "41247d467271e18481bf92dd227f38c5",
+            "status": {
+                "full": "expired",
+                "simple": "finished",
+                "description": ""
+            },
+            "due_date": "2022-12-23T18:13:00",
+            "source": {
+                "fullname": "Свердловская область, Екатеринбург, проспект Ленина, 49"
+            },
+            "corp_user": {
+                "user_id": "fbfb5e49cb0b43c6b1c8f1871c1fa80b",
+                "fullname": "Вне Подразделения"
+            },
+            "cost_center": "Основной центр затрат",
+            "cost_centers": [
+                {
+                    "id": "cost_center",
+                    "title": "Центр затрат",
+                    "value": "anything"
+                },
+                {
+                    "id": "0ddf66708f0245b0a988c68d1cd886cf",
+                    "title": "Цель поездки",
+                    "value": "цель 1"
+                },
+                {
+                    "id": "7ba49ce6f64f4c029eb46d60cbc9e344",
+                    "title": "Номер дела",
+                    "value": ""
+                }
+            ],
+            "application": "corpapi",
+            "application_translate": "corpapi",
+            "class": "econom",
+            "finished_date": "2022-12-23T18:13:00",
+            "cost": 0.0,
+            "cost_with_vat": "0.00",
+            "destination": {
+                "fullname": "Свердловская область, Екатеринбург, улица Карла Либкнехта, 22"
+            }
+        },
+        {
+            "_id": "ed003d0e478ed915a38c19405f1cce00",
+            "status": {
+                "full": "expired",
+                "simple": "finished",
+                "description": ""
+            },
+            "due_date": "2022-12-23T18:13:00",
+            "source": {
+                "fullname": "Свердловская область, Екатеринбург, проспект Ленина, 49"
+            },
+            "corp_user": {
+                "user_id": "fbfb5e49cb0b43c6b1c8f1871c1fa80b",
+                "fullname": "Вне Подразделения"
+            },
+            "cost_center": "Основной центр затрат",
+            "cost_centers": [
+                {
+                    "id": "cost_center",
+                    "title": "Центр затрат",
+                    "value": "anything"
+                },
+                {
+                    "id": "0ddf66708f0245b0a988c68d1cd886cf",
+                    "title": "Цель поездки",
+                    "value": "цель 1"
+                },
+                {
+                    "id": "7ba49ce6f64f4c029eb46d60cbc9e344",
+                    "title": "Номер дела",
+                    "value": ""
+                }
+            ],
+            "application": "corpapi",
+            "application_translate": "corpapi",
+            "class": "econom",
+            "finished_date": "2022-12-23T18:13:00",
+            "cost": 0.0,
+            "cost_with_vat": "0.00",
+            "destination": {
+                "fullname": "Свердловская область, Екатеринбург, улица Карла Либкнехта, 22"
+            }
+        },
+        {
+            "_id": "693186b5055932a380d5dbb78a7dc50c",
+            "status": {
+                "full": "expired",
+                "simple": "finished",
+                "description": ""
+            },
+            "due_date": "2022-12-23T18:13:00",
+            "source": {
+                "fullname": "Свердловская область, Екатеринбург, проспект Ленина, 49"
+            },
+            "corp_user": {
+                "user_id": "fbfb5e49cb0b43c6b1c8f1871c1fa80b",
+                "fullname": "Вне Подразделения"
+            },
+            "cost_center": "Основной центр затрат",
+            "cost_centers": [
+                {
+                    "id": "cost_center",
+                    "title": "Центр затрат",
+                    "value": "anything"
+                },
+                {
+                    "id": "0ddf66708f0245b0a988c68d1cd886cf",
+                    "title": "Цель поездки",
+                    "value": "цель 1"
+                },
+                {
+                    "id": "7ba49ce6f64f4c029eb46d60cbc9e344",
+                    "title": "Номер дела",
+                    "value": ""
+                }
+            ],
+            "application": "corpapi",
+            "application_translate": "corpapi",
+            "class": "econom",
+            "finished_date": "2022-12-23T18:13:00",
+            "cost": 0.0,
+            "cost_with_vat": "0.00",
+            "destination": {
+                "fullname": "Свердловская область, Екатеринбург, улица Карла Либкнехта, 22"
+            }
+        },
+        {
+            "_id": "9ec6e43c27efcd95b9590366ea655bc9",
+            "status": {
+                "full": "expired",
+                "simple": "finished",
+                "description": ""
+            },
+            "due_date": "2022-12-23T18:13:00",
+            "source": {
+                "fullname": "Свердловская область, Екатеринбург, проспект Ленина, 49"
+            },
+            "corp_user": {
+                "user_id": "fbfb5e49cb0b43c6b1c8f1871c1fa80b",
+                "fullname": "Вне Подразделения"
+            },
+            "cost_center": "Основной центр затрат",
+            "cost_centers": [
+                {
+                    "id": "cost_center",
+                    "title": "Центр затрат",
+                    "value": "anything"
+                },
+                {
+                    "id": "0ddf66708f0245b0a988c68d1cd886cf",
+                    "title": "Цель поездки",
+                    "value": "цель 1"
+                },
+                {
+                    "id": "7ba49ce6f64f4c029eb46d60cbc9e344",
+                    "title": "Номер дела",
+                    "value": ""
+                }
+            ],
+            "application": "corpapi",
+            "application_translate": "corpapi",
+            "class": "econom",
+            "finished_date": "2022-12-23T18:13:00",
+            "cost": 0.0,
+            "cost_with_vat": "0.00",
+            "destination": {
+                "fullname": "Свердловская область, Екатеринбург, улица Карла Либкнехта, 22"
+            }
+        },
+        {
+            "_id": "c53f922bbead2727b705d83767875341",
+            "status": {
+                "full": "expired",
+                "simple": "finished",
+                "description": ""
+            },
+            "due_date": "2022-12-23T18:13:00",
+            "source": {
+                "fullname": "Свердловская область, Екатеринбург, проспект Ленина, 49"
+            },
+            "corp_user": {
+                "user_id": "fbfb5e49cb0b43c6b1c8f1871c1fa80b",
+                "fullname": "Вне Подразделения"
+            },
+            "cost_center": "Основной центр затрат",
+            "cost_centers": [
+                {
+                    "id": "cost_center",
+                    "title": "Центр затрат",
+                    "value": "anything"
+                },
+                {
+                    "id": "0ddf66708f0245b0a988c68d1cd886cf",
+                    "title": "Цель поездки",
+                    "value": "цель 1"
+                },
+                {
+                    "id": "7ba49ce6f64f4c029eb46d60cbc9e344",
+                    "title": "Номер дела",
+                    "value": ""
+                }
+            ],
+            "application": "corpapi",
+            "application_translate": "corpapi",
+            "class": "econom",
+            "finished_date": "2022-12-23T18:13:00",
+            "cost": 0.0,
+            "cost_with_vat": "0.00",
+            "destination": {
+                "fullname": "Свердловская область, Екатеринбург, улица Карла Либкнехта, 22"
+            }
+        },
+        {
+            "_id": "2a94af9e99743a03b0da820eb69cd71e",
+            "status": {
+                "full": "expired",
+                "simple": "finished",
+                "description": ""
+            },
+            "due_date": "2022-12-23T18:13:00",
+            "source": {
+                "fullname": "Свердловская область, Екатеринбург, проспект Ленина, 49"
+            },
+            "corp_user": {
+                "user_id": "fbfb5e49cb0b43c6b1c8f1871c1fa80b",
+                "fullname": "Вне Подразделения"
+            },
+            "cost_center": "Основной центр затрат",
+            "cost_centers": [
+                {
+                    "id": "cost_center",
+                    "title": "Центр затрат",
+                    "value": "anything"
+                },
+                {
+                    "id": "0ddf66708f0245b0a988c68d1cd886cf",
+                    "title": "Цель поездки",
+                    "value": "цель 1"
+                },
+                {
+                    "id": "7ba49ce6f64f4c029eb46d60cbc9e344",
+                    "title": "Номер дела",
+                    "value": ""
+                }
+            ],
+            "application": "corpapi",
+            "application_translate": "corpapi",
+            "class": "econom",
+            "finished_date": "2022-12-23T18:13:00",
+            "cost": 0.0,
+            "cost_with_vat": "0.00",
+            "destination": {
+                "fullname": "Свердловская область, Екатеринбург, улица Карла Либкнехта, 22"
+            }
+        },
+        {
+            "_id": "c40e1a4bac7524309a7cc5721b7ae3c6",
+            "status": {
+                "full": "expired",
+                "simple": "finished",
+                "description": ""
+            },
+            "due_date": "2022-12-23T18:13:00",
+            "source": {
+                "fullname": "Свердловская область, Екатеринбург, проспект Ленина, 49"
+            },
+            "corp_user": {
+                "user_id": "fbfb5e49cb0b43c6b1c8f1871c1fa80b",
+                "fullname": "Вне Подразделения"
+            },
+            "cost_center": "Основной центр затрат",
+            "cost_centers": [
+                {
+                    "id": "cost_center",
+                    "title": "Центр затрат",
+                    "value": "anything"
+                },
+                {
+                    "id": "0ddf66708f0245b0a988c68d1cd886cf",
+                    "title": "Цель поездки",
+                    "value": "цель 1"
+                },
+                {
+                    "id": "7ba49ce6f64f4c029eb46d60cbc9e344",
+                    "title": "Номер дела",
+                    "value": ""
+                }
+            ],
+            "application": "corpapi",
+            "application_translate": "corpapi",
+            "class": "econom",
+            "finished_date": "2022-12-23T18:13:00",
+            "cost": 0.0,
+            "cost_with_vat": "0.00",
+            "destination": {
+                "fullname": "Свердловская область, Екатеринбург, улица Карла Либкнехта, 22"
+            }
+        },
+        {
+            "_id": "9d1fe7d6ad2820d8acaded429262e734",
+            "status": {
+                "full": "expired",
+                "simple": "finished",
+                "description": ""
+            },
+            "due_date": "2022-12-23T18:13:00",
+            "source": {
+                "fullname": "Свердловская область, Екатеринбург, проспект Ленина, 49"
+            },
+            "corp_user": {
+                "user_id": "fbfb5e49cb0b43c6b1c8f1871c1fa80b",
+                "fullname": "Вне Подразделения"
+            },
+            "cost_center": "Основной центр затрат",
+            "cost_centers": [
+                {
+                    "id": "cost_center",
+                    "title": "Центр затрат",
+                    "value": "anything"
+                },
+                {
+                    "id": "0ddf66708f0245b0a988c68d1cd886cf",
+                    "title": "Цель поездки",
+                    "value": "цель 1"
+                },
+                {
+                    "id": "7ba49ce6f64f4c029eb46d60cbc9e344",
+                    "title": "Номер дела",
+                    "value": ""
+                }
+            ],
+            "application": "corpapi",
+            "application_translate": "corpapi",
+            "class": "econom",
+            "finished_date": "2022-12-23T18:13:00",
+            "cost": 0.0,
+            "cost_with_vat": "0.00",
+            "destination": {
+                "fullname": "Свердловская область, Екатеринбург, улица Карла Либкнехта, 22"
+            }
+        },
+        {
+            "_id": "670b2def206e20bd871a2828b91f2bef",
+            "status": {
+                "full": "expired",
+                "simple": "finished",
+                "description": ""
+            },
+            "due_date": "2022-12-23T18:13:00",
+            "source": {
+                "fullname": "Свердловская область, Екатеринбург, проспект Ленина, 49"
+            },
+            "corp_user": {
+                "user_id": "fbfb5e49cb0b43c6b1c8f1871c1fa80b",
+                "fullname": "Вне Подразделения"
+            },
+            "cost_center": "Основной центр затрат",
+            "cost_centers": [
+                {
+                    "id": "cost_center",
+                    "title": "Центр затрат",
+                    "value": "anything"
+                },
+                {
+                    "id": "0ddf66708f0245b0a988c68d1cd886cf",
+                    "title": "Цель поездки",
+                    "value": "цель 1"
+                },
+                {
+                    "id": "7ba49ce6f64f4c029eb46d60cbc9e344",
+                    "title": "Номер дела",
+                    "value": ""
+                }
+            ],
+            "application": "corpapi",
+            "application_translate": "corpapi",
+            "class": "econom",
+            "finished_date": "2022-12-23T18:13:00",
+            "cost": 0.0,
+            "cost_with_vat": "0.00",
+            "destination": {
+                "fullname": "Свердловская область, Екатеринбург, улица Карла Либкнехта, 22"
+            }
+        },
+        {
+            "_id": "c1dc3adb3fabd940b8f87c1367647f67",
+            "status": {
+                "full": "expired",
+                "simple": "finished",
+                "description": ""
+            },
+            "due_date": "2022-12-23T18:13:00",
+            "source": {
+                "fullname": "Свердловская область, Екатеринбург, проспект Ленина, 49"
+            },
+            "corp_user": {
+                "user_id": "fbfb5e49cb0b43c6b1c8f1871c1fa80b",
+                "fullname": "Вне Подразделения"
+            },
+            "cost_center": "Основной центр затрат",
+            "cost_centers": [
+                {
+                    "id": "cost_center",
+                    "title": "Центр затрат",
+                    "value": "anything"
+                },
+                {
+                    "id": "0ddf66708f0245b0a988c68d1cd886cf",
+                    "title": "Цель поездки",
+                    "value": "цель 1"
+                },
+                {
+                    "id": "7ba49ce6f64f4c029eb46d60cbc9e344",
+                    "title": "Номер дела",
+                    "value": ""
+                }
+            ],
+            "application": "corpapi",
+            "application_translate": "corpapi",
+            "class": "econom",
+            "finished_date": "2022-12-23T18:13:00",
+            "cost": 0.0,
+            "cost_with_vat": "0.00",
+            "destination": {
+                "fullname": "Свердловская область, Екатеринбург, улица Карла Либкнехта, 22"
+            }
+        },
+        {
+            "_id": "8191e6fd1372dd4aa8e84b4d29f52e6d",
+            "status": {
+                "full": "expired",
+                "simple": "finished",
+                "description": ""
+            },
+            "due_date": "2022-12-23T18:13:00",
+            "source": {
+                "fullname": "Свердловская область, Екатеринбург, проспект Ленина, 49"
+            },
+            "corp_user": {
+                "user_id": "fbfb5e49cb0b43c6b1c8f1871c1fa80b",
+                "fullname": "Вне Подразделения"
+            },
+            "cost_center": "Основной центр затрат",
+            "cost_centers": [
+                {
+                    "id": "cost_center",
+                    "title": "Центр затрат",
+                    "value": "anything"
+                },
+                {
+                    "id": "0ddf66708f0245b0a988c68d1cd886cf",
+                    "title": "Цель поездки",
+                    "value": "цель 1"
+                },
+                {
+                    "id": "7ba49ce6f64f4c029eb46d60cbc9e344",
+                    "title": "Номер дела",
+                    "value": ""
+                }
+            ],
+            "application": "corpapi",
+            "application_translate": "corpapi",
+            "class": "econom",
+            "finished_date": "2022-12-23T18:13:00",
+            "cost": 0.0,
+            "cost_with_vat": "0.00",
+            "destination": {
+                "fullname": "Свердловская область, Екатеринбург, улица Карла Либкнехта, 22"
+            }
+        },
+        {
+            "_id": "843e150cca573572814f5af1268d3fd0",
+            "status": {
+                "full": "expired",
+                "simple": "finished",
+                "description": ""
+            },
+            "due_date": "2022-12-23T18:13:00",
+            "source": {
+                "fullname": "Свердловская область, Екатеринбург, проспект Ленина, 49"
+            },
+            "corp_user": {
+                "user_id": "fbfb5e49cb0b43c6b1c8f1871c1fa80b",
+                "fullname": "Вне Подразделения"
+            },
+            "cost_center": "Основной центр затрат",
+            "cost_centers": [
+                {
+                    "id": "cost_center",
+                    "title": "Центр затрат",
+                    "value": "anything"
+                },
+                {
+                    "id": "0ddf66708f0245b0a988c68d1cd886cf",
+                    "title": "Цель поездки",
+                    "value": "цель 1"
+                },
+                {
+                    "id": "7ba49ce6f64f4c029eb46d60cbc9e344",
+                    "title": "Номер дела",
+                    "value": ""
+                }
+            ],
+            "application": "corpapi",
+            "application_translate": "corpapi",
+            "class": "econom",
+            "finished_date": "2022-12-23T18:13:00",
+            "cost": 0.0,
+            "cost_with_vat": "0.00",
+            "destination": {
+                "fullname": "Свердловская область, Екатеринбург, улица Карла Либкнехта, 22"
+            }
+        },
+        {
+            "_id": "8aafe6f19a30381c9a7bcaedddfaad95",
+            "status": {
+                "full": "expired",
+                "simple": "finished",
+                "description": ""
+            },
+            "due_date": "2022-12-23T18:13:00",
+            "source": {
+                "fullname": "Свердловская область, Екатеринбург, проспект Ленина, 49"
+            },
+            "corp_user": {
+                "user_id": "fbfb5e49cb0b43c6b1c8f1871c1fa80b",
+                "fullname": "Вне Подразделения"
+            },
+            "cost_center": "Основной центр затрат",
+            "cost_centers": [
+                {
+                    "id": "cost_center",
+                    "title": "Центр затрат",
+                    "value": "anything"
+                },
+                {
+                    "id": "0ddf66708f0245b0a988c68d1cd886cf",
+                    "title": "Цель поездки",
+                    "value": "цель 1"
+                },
+                {
+                    "id": "7ba49ce6f64f4c029eb46d60cbc9e344",
+                    "title": "Номер дела",
+                    "value": ""
+                }
+            ],
+            "application": "corpapi",
+            "application_translate": "corpapi",
+            "class": "econom",
+            "finished_date": "2022-12-23T18:13:00",
+            "cost": 0.0,
+            "cost_with_vat": "0.00",
+            "destination": {
+                "fullname": "Свердловская область, Екатеринбург, улица Карла Либкнехта, 22"
+            }
+        },
+        {
+            "_id": "e3a580ef93eee92ab0f87f7961824828",
+            "status": {
+                "full": "expired",
+                "simple": "finished",
+                "description": ""
+            },
+            "due_date": "2022-12-23T18:13:00",
+            "source": {
+                "fullname": "Свердловская область, Екатеринбург, проспект Ленина, 49"
+            },
+            "corp_user": {
+                "user_id": "fbfb5e49cb0b43c6b1c8f1871c1fa80b",
+                "fullname": "Вне Подразделения"
+            },
+            "cost_center": "Основной центр затрат",
+            "cost_centers": [
+                {
+                    "id": "cost_center",
+                    "title": "Центр затрат",
+                    "value": "anything"
+                },
+                {
+                    "id": "0ddf66708f0245b0a988c68d1cd886cf",
+                    "title": "Цель поездки",
+                    "value": "цель 1"
+                },
+                {
+                    "id": "7ba49ce6f64f4c029eb46d60cbc9e344",
+                    "title": "Номер дела",
+                    "value": ""
+                }
+            ],
+            "application": "corpapi",
+            "application_translate": "corpapi",
+            "class": "econom",
+            "finished_date": "2022-12-23T18:13:00",
+            "cost": 0.0,
+            "cost_with_vat": "0.00",
+            "destination": {
+                "fullname": "Свердловская область, Екатеринбург, улица Карла Либкнехта, 22"
+            }
+        }
+    ],
+    "amount": 140,
+    "skip": 0,
+    "limit": 100,
+    "sorting_field": "due_date",
+    "sorting_direction": -1
+}

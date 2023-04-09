@@ -1,0 +1,257 @@
+{
+    "_id": "9b5e3a678202470ea3996f636d7a8844",
+    "contract_id": null,
+    "name": "OOO \"Тестовый Кабинет\"",
+    "yandex_login": "corp-testovyikabinet67401",
+    "email": "andoprod@yandex-team.ru",
+    "comment": "Позвонить",
+    "is_active": true,
+    "is_corp_agent": false,
+    "country": "rus",
+    "currency": "RUB",
+    "currency_sign": "₽",
+    "currency_rules": {
+        "code": "RUB",
+        "text": "руб.",
+        "template": "$VALUE$ $SIGN$$CURRENCY$",
+        "sign": "₽"
+    },
+    "services": {
+        "drive": {
+            "is_active": true,
+            "is_visible": true,
+            "contract_id": null,
+            "is_auto_activate": false,
+            "min_balance_threshold": null,
+            "is_test": false,
+            "deactivate_threshold_date": null,
+            "deactivate_threshold_ride": null,
+            "low_balance_threshold": 1000,
+            "low_balance_notification_enabled": false,
+            "contract_info": {
+                "manager_id": null,
+                "status": null,
+                "payment_type": "none",
+                "contract_id": null,
+                "services": [],
+                "is_offer": null,
+                "balance": null,
+                "is_blocked": null,
+                "offer_accepted": null
+            },
+            "person": {
+                "id": null
+            },
+            "payment_method": "corp",
+            "parent_id": 21243126
+        },
+        "eats": {
+            "is_active": false,
+            "is_visible": false,
+            "contract_id": null,
+            "is_auto_activate": false,
+            "min_balance_threshold": null,
+            "is_test": false,
+            "deactivate_threshold_date": null,
+            "deactivate_threshold_ride": null,
+            "low_balance_threshold": null,
+            "low_balance_notification_enabled": null,
+            "contract_info": {
+                "manager_id": null,
+                "status": null,
+                "payment_type": "none",
+                "contract_id": null,
+                "services": [],
+                "is_offer": null,
+                "balance": null,
+                "is_blocked": null,
+                "offer_accepted": null
+            },
+            "person": {
+                "id": null
+            },
+            "payment_method": "corp"
+        },
+        "eats2": {
+            "is_active": true,
+            "is_visible": true,
+            "contract_id": null,
+            "is_auto_activate": false,
+            "min_balance_threshold": null,
+            "is_test": false,
+            "deactivate_threshold_date": null,
+            "deactivate_threshold_ride": null,
+            "low_balance_threshold": 1000,
+            "low_balance_notification_enabled": false,
+            "contract_info": {
+                "manager_id": null,
+                "status": null,
+                "payment_type": "none",
+                "contract_id": null,
+                "services": [],
+                "is_offer": null,
+                "balance": null,
+                "is_blocked": null,
+                "offer_accepted": null
+            },
+            "person": {
+                "id": null
+            },
+            "payment_method": "corp"
+        },
+        "grocery": {
+            "is_active": false,
+            "is_visible": false,
+            "contract_id": null,
+            "is_auto_activate": false,
+            "min_balance_threshold": null,
+            "is_test": false,
+            "deactivate_threshold_date": null,
+            "deactivate_threshold_ride": null,
+            "low_balance_threshold": null,
+            "low_balance_notification_enabled": null,
+            "contract_info": {
+                "manager_id": null,
+                "status": null,
+                "payment_type": "none",
+                "contract_id": null,
+                "services": [],
+                "is_offer": null,
+                "balance": null,
+                "is_blocked": null,
+                "offer_accepted": null
+            },
+            "person": {
+                "id": null
+            },
+            "payment_method": "corp"
+        },
+        "taxi": {
+            "is_active": true,
+            "is_visible": true,
+            "contract_id": null,
+            "is_auto_activate": true,
+            "min_balance_threshold": null,
+            "is_test": false,
+            "deactivate_threshold_date": null,
+            "deactivate_threshold_ride": null,
+            "low_balance_threshold": 1000,
+            "low_balance_notification_enabled": false,
+            "contract_info": {
+                "manager_id": null,
+                "status": null,
+                "payment_type": "none",
+                "contract_id": null,
+                "services": [],
+                "is_offer": null,
+                "balance": null,
+                "is_blocked": null,
+                "offer_accepted": null
+            },
+            "person": {
+                "id": null
+            },
+            "payment_method": "corp",
+            "comment": "Позвонить"
+        },
+        "cargo": {
+            "is_active": true,
+            "is_visible": true,
+            "contract_id": null,
+            "is_auto_activate": false,
+            "min_balance_threshold": null,
+            "is_test": false,
+            "deactivate_threshold_date": null,
+            "deactivate_threshold_ride": null,
+            "low_balance_threshold": 1000,
+            "low_balance_notification_enabled": false,
+            "contract_info": {
+                "manager_id": null,
+                "status": null,
+                "payment_type": "none",
+                "contract_id": null,
+                "services": [],
+                "is_offer": null,
+                "balance": null,
+                "is_blocked": null,
+                "offer_accepted": null
+            },
+            "person": {
+                "id": null
+            },
+            "payment_method": "corp",
+            "next_day_delivery": false
+        },
+        "market": {
+            "is_active": false,
+            "is_visible": false,
+            "contract_id": null,
+            "is_auto_activate": false,
+            "min_balance_threshold": null,
+            "is_test": false,
+            "deactivate_threshold_date": null,
+            "deactivate_threshold_ride": null,
+            "low_balance_threshold": null,
+            "low_balance_notification_enabled": null,
+            "contract_info": {
+                "manager_id": null,
+                "status": null,
+                "payment_type": "none",
+                "contract_id": null,
+                "services": [],
+                "is_offer": null,
+                "balance": null,
+                "is_blocked": null,
+                "offer_accepted": null
+            },
+            "person": {
+                "id": null
+            },
+            "payment_method": "corp"
+        },
+        "tanker": {
+            "is_active": true,
+            "is_visible": true,
+            "contract_id": null,
+            "is_auto_activate": false,
+            "min_balance_threshold": null,
+            "is_test": false,
+            "deactivate_threshold_date": null,
+            "deactivate_threshold_ride": null,
+            "low_balance_threshold": 1000,
+            "low_balance_notification_enabled": false,
+            "contract_info": {
+                "manager_id": null,
+                "status": null,
+                "payment_type": "none",
+                "contract_id": null,
+                "services": [],
+                "is_offer": null,
+                "balance": null,
+                "is_blocked": null,
+                "offer_accepted": null
+            },
+            "person": {
+                "id": null
+            },
+            "payment_method": "corp",
+            "is_fleet_enabled": false
+        }
+    },
+    "cabinet_only_role_id": "880fa5b3a791429d8162d69ae9e644d9",
+    "billing_name": "АО \"123 АРЗ\"",
+    "cost_centers_file_name": "",
+    "features": [
+        "api_allowed",
+        "combo_orders_allowed",
+        "departments",
+        "restrictions",
+        "geo_restrictions",
+        "ride_limits",
+        "multi_available",
+        "default_cost_center",
+        "new_limits"
+    ],
+    "default_tariff_class": "vip",
+    "tmp_common_contract": true
+}

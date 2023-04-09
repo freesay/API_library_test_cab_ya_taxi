@@ -1,0 +1,67 @@
+{
+    "items": [
+        {
+            "name": "u2L939ulnZYOPhQckq9t6jkYUiKPBqN74dj_7H__g4CdTYZEkXA8n_FbUITRgaIlYTtBR4smtY5aui5qY687B2ZUM_yxRbdm70IQ8zWW8TP0o9ErR8j4j_dlBN__aMNx2Z9nm_v557610VcsMXSnjJ6c8JB4km1_fyd4hpEY2xCk8pmasRw1bMj9D0IrwXv07R_pxx0_W94h4b1rMGv1uH7CMDytKlNbo_EY5Kyf724X0g6Bq94UOzzxV4KnnA0p7gCJPbkM6NFCW_R_7GQKXhve_rMA5HQognXA_TunhUsL7N94796mxzZZVq_FZP1_erz4i6mAM665U9dh6AM_hO_RW7jDrELyfSuWCdGgL6qyWqP8t7wVfG0ecB73guWXL7OrKGFJyWKrUBXyX1XCsAzRyB_ub44h6RKm3LwZb1OsFzGdyAHpzo5ADEkODSs_LxjNXjGx_vUFg2KR3jovQgyJWDT3CtrMV15iOMy441442142142143124213213213213_______000",
+            "geo_type": "circle",
+            "geo": {
+                "center": [
+                    37.621183587493164,
+                    55.754572628793774
+                ],
+                "radius": 500
+            },
+            "_id": "f89c0b173bdb422db91caff2eeb46be3"
+        },
+        {
+            "name": "Sp      ace",
+            "geo_type": "circle",
+            "geo": {
+                "center": [
+                    37.621183587493164,
+                    55.754572628793774
+                ],
+                "radius": 500
+            },
+            "_id": "68718ce27da54cda98d9cd60efd78488"
+        },
+        {
+            "name": "Офис 2",
+            "geo_type": "circle",
+            "geo": {
+                "center": [
+                    37.642639,
+                    55.734894
+                ],
+                "radius": 200
+            },
+            "_id": "2aea290e02a14034acc438c51656f15b"
+        },
+        {
+            "name": "1312312",
+            "geo_type": "circle",
+            "geo": {
+                "center": [
+                    37.614818,
+                    55.755854
+                ],
+                "radius": 1000
+            },
+            "_id": "6f29983429be46759d66dd36a1bf1cb6"
+        },
+        {
+            "name": "ГУМ круг",
+            "geo_type": "circle",
+            "geo": {
+                "center": [
+                    37.62121952010453,
+                    55.754248406066466
+                ],
+                "radius": 750
+            },
+            "_id": "79583a460b164b2abdcaf412e4e8a9a9"
+        }
+    ],
+    "amount": 5,
+    "limit": 100,
+    "offset": 0
+}

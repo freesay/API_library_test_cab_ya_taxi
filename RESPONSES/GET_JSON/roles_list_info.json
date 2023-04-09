@@ -1,0 +1,172 @@
+{
+    "items": [
+        {
+            "restrictions": [],
+            "department_id": null,
+            "geo_restrictions": [],
+            "_id": "c0e0171ebd45464bb65ab7e527e16f74",
+            "period": "month",
+            "limit": Infinity,
+            "counters": {
+                "users": 0
+            },
+            "deletable": true,
+            "orders": {
+                "no_specific_limit": true,
+                "limit": Infinity
+            },
+            "putable": true,
+            "name": "123123",
+            "no_specific_limit": true,
+            "classes": [
+                "vip",
+                "premium_van",
+                "ultimate",
+                "maybach",
+                "cargo",
+                "child_tariff",
+                "business",
+                "comfortplus",
+                "courier",
+                "minivan",
+                "econom",
+                "express"
+            ]
+        },
+        {
+            "restrictions": [],
+            "department_id": null,
+            "geo_restrictions": [],
+            "_id": "b76ec422758649069c88363aefa90c31",
+            "period": "month",
+            "limit": Infinity,
+            "counters": {
+                "users": 2
+            },
+            "deletable": true,
+            "orders": {
+                "no_specific_limit": true,
+                "limit": Infinity
+            },
+            "putable": true,
+            "name": "5",
+            "no_specific_limit": true,
+            "classes": [
+                "vip",
+                "premium_van",
+                "ultimate",
+                "maybach",
+                "cargo",
+                "child_tariff",
+                "business",
+                "comfortplus",
+                "courier",
+                "minivan",
+                "econom",
+                "express"
+            ]
+        },
+        {
+            "_id": "880fa5b3a791429d8162d69ae9e644d9",
+            "period": "month",
+            "limit": 0,
+            "counters": {
+                "users": 0
+            },
+            "deletable": false,
+            "orders": {
+                "no_specific_limit": true,
+                "limit": Infinity
+            },
+            "is_cabinet_only": true,
+            "putable": false,
+            "name": "Без права самостоятельного заказа",
+            "no_specific_limit": false,
+            "classes": [
+                "vip",
+                "econom",
+                "business",
+                "cargo",
+                "child_tariff",
+                "comfortplus",
+                "express",
+                "maybach",
+                "minivan",
+                "premium_van",
+                "ultimate",
+                "courier"
+            ]
+        },
+        {
+            "restrictions": [],
+            "department_id": null,
+            "geo_restrictions": [],
+            "_id": "92584b375aef4baea3e4d935ccdf25f4",
+            "period": "month",
+            "limit": Infinity,
+            "counters": {
+                "users": 2
+            },
+            "deletable": true,
+            "orders": {
+                "no_specific_limit": true,
+                "limit": Infinity
+            },
+            "putable": true,
+            "name": "боинги",
+            "no_specific_limit": true,
+            "classes": [
+                "vip",
+                "premium_van",
+                "ultimate",
+                "maybach",
+                "cargo",
+                "child_tariff",
+                "business",
+                "comfortplus",
+                "courier",
+                "minivan",
+                "econom",
+                "express"
+            ]
+        },
+        {
+            "restrictions": [],
+            "department_id": "1e7e933dbc564d568d302be282369ad5",
+            "geo_restrictions": [],
+            "_id": "89cc609113244a19872f704836ee6a0d",
+            "period": "month",
+            "limit": 4000,
+            "counters": {
+                "users": 0
+            },
+            "deletable": true,
+            "orders": {
+                "no_specific_limit": true,
+                "limit": Infinity
+            },
+            "putable": true,
+            "name": "группа1",
+            "no_specific_limit": false,
+            "classes": [
+                "vip",
+                "premium_van",
+                "ultimate",
+                "maybach",
+                "cargo",
+                "child_tariff",
+                "business",
+                "comfortplus",
+                "courier",
+                "minivan",
+                "econom",
+                "express"
+            ]
+        }
+    ],
+    "amount": 5,
+    "skip": 0,
+    "limit": 100,
+    "sorting_field": "name",
+    "sorting_direction": 1
+}

@@ -1,0 +1,200 @@
+{
+    "items": [
+        {
+            "name": "Основной центр затрат",
+            "default": true,
+            "field_settings": [
+                {
+                    "id": "cost_center",
+                    "title": "Цель",
+                    "format": "text",
+                    "hidden": true,
+                    "required": false,
+                    "services": [
+                        "taxi"
+                    ],
+                    "values": []
+                },
+                {
+                    "id": "0ddf66708f0245b0a988c68d1cd886cf",
+                    "hidden": false,
+                    "title": "Цель поездки",
+                    "services": [
+                        "taxi",
+                        "cargo"
+                    ],
+                    "required": true,
+                    "format": "select",
+                    "values": [
+                        "На работу",
+                        "С работы"
+                    ]
+                },
+                {
+                    "id": "7ba49ce6f64f4c029eb46d60cbc9e344",
+                    "hidden": true,
+                    "title": "Номер дела",
+                    "services": [
+                        "taxi"
+                    ],
+                    "required": true,
+                    "format": "text",
+                    "values": [
+                        "Еда",
+                        "Вода"
+                    ]
+                }
+            ],
+            "client_id": "9b5e3a678202470ea3996f636d7a8844",
+            "users_count": 32,
+            "id": "2215117270474a319b10d757445d719a"
+        },
+        {
+            "client_id": "9b5e3a678202470ea3996f636d7a8844",
+            "default": false,
+            "field_settings": [
+                {
+                    "id": "cost_center",
+                    "title": "Цель",
+                    "format": "text",
+                    "hidden": true,
+                    "required": true,
+                    "services": [
+                        "taxi"
+                    ],
+                    "values": []
+                },
+                {
+                    "required": false,
+                    "title": "Цель поездки",
+                    "services": [
+                        "taxi",
+                        "cargo"
+                    ],
+                    "format": "select",
+                    "id": "0ddf66708f0245b0a988c68d1cd886cf",
+                    "hidden": true,
+                    "values": [
+                        "По работе 1",
+                        "Не по работе 1"
+                    ]
+                },
+                {
+                    "required": false,
+                    "title": "Номер дела",
+                    "services": [
+                        "taxi"
+                    ],
+                    "format": "mixed",
+                    "id": "7ba49ce6f64f4c029eb46d60cbc9e344",
+                    "hidden": true,
+                    "values": [
+                        "По работе 2",
+                        "Не по работе 2"
+                    ]
+                }
+            ],
+            "name": "TEST центр затрат",
+            "users_count": 3,
+            "id": "852fefc1219c4779b012ce740e659edf"
+        },
+        {
+            "client_id": "9b5e3a678202470ea3996f636d7a8844",
+            "default": false,
+            "field_settings": [
+                {
+                    "id": "cost_center",
+                    "title": "Цель",
+                    "format": "text",
+                    "hidden": true,
+                    "required": true,
+                    "services": [
+                        "taxi"
+                    ],
+                    "values": []
+                },
+                {
+                    "id": "0ddf66708f0245b0a988c68d1cd886cf",
+                    "hidden": true,
+                    "title": "Цель поездки",
+                    "services": [
+                        "taxi",
+                        "cargo"
+                    ],
+                    "required": false,
+                    "format": "select",
+                    "values": [
+                        "На работу",
+                        "С работы"
+                    ]
+                },
+                {
+                    "id": "7ba49ce6f64f4c029eb46d60cbc9e344",
+                    "hidden": true,
+                    "title": "Номер дела",
+                    "services": [
+                        "taxi"
+                    ],
+                    "required": false,
+                    "format": "mixed",
+                    "values": [
+                        "1 блябля",
+                        "2 ляля"
+                    ]
+                }
+            ],
+            "name": "ТЕСТ",
+            "users_count": 0,
+            "id": "3b7582c62c2d40e8ae803f3c7dc06a6e"
+        },
+        {
+            "client_id": "9b5e3a678202470ea3996f636d7a8844",
+            "default": false,
+            "field_settings": [
+                {
+                    "id": "cost_center",
+                    "title": "Цель",
+                    "format": "text",
+                    "hidden": true,
+                    "required": false,
+                    "services": [
+                        "taxi"
+                    ],
+                    "values": []
+                },
+                {
+                    "id": "0ddf66708f0245b0a988c68d1cd886cf",
+                    "hidden": true,
+                    "title": "Цель поездки",
+                    "services": [
+                        "taxi",
+                        "cargo"
+                    ],
+                    "required": false,
+                    "format": "mixed",
+                    "values": [
+                        "На работу",
+                        "С работы"
+                    ]
+                },
+                {
+                    "id": "7ba49ce6f64f4c029eb46d60cbc9e344",
+                    "hidden": true,
+                    "title": "Номер дела",
+                    "services": [
+                        "taxi"
+                    ],
+                    "required": true,
+                    "format": "text",
+                    "values": [
+                        "Еда",
+                        "Вода"
+                    ]
+                }
+            ],
+            "name": "Дополнительный",
+            "users_count": 0,
+            "id": "598a64159fc340dc844c1141c7c3a991"
+        }
+    ]
+}

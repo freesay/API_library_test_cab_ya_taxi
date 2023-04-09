@@ -1,0 +1,24 @@
+{
+    "yandex_login": "corp-testovyikabinet67401",
+    "role": "client",
+    "permissions": [
+        "taxi",
+        "taxi_client",
+        "taxi_department_create",
+        "taxi_department_part",
+        "taxi_department_full",
+        "taxi_other",
+        "logistics"
+    ],
+    "client_id": "9b5e3a678202470ea3996f636d7a8844",
+    "ui": {
+        "default_language": "ru",
+        "web_ui_languages": [
+            "ru",
+            "en"
+        ]
+    },
+    "country": "rus",
+    "has_2fa": false,
+    "connection_id": "t:37600667"
+}

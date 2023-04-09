@@ -1,0 +1,87 @@
+{
+    "_id": "57d4ed1155f2ea20a0c41cfa50a93673",
+    "status": {
+        "full": "complete",
+        "simple": "finished",
+        "description": ""
+    },
+    "due_date": "2023-03-29T16:13:56",
+    "source": {
+        "fullname": "Москва, Красная площадь, 3",
+        "geopoint": [
+            37.621919,
+            55.754996
+        ]
+    },
+    "corp_user": {
+        "user_id": "fe72927e91ba43afafa7ff237509479d",
+        "fullname": "В группе",
+        "phone": "+79999999902",
+        "nickname": "111",
+        "role_id": "7c22afd434c541a2b6e8887dc2f41770",
+        "role_name": "fe72927e91ba43afafa7ff237509479d"
+    },
+    "cost_center": "",
+    "application": "corpweb",
+    "application_translate": "Личный кабинет",
+    "class": "econom",
+    "finished_date": "2023-03-29T17:13:56",
+    "cost": 0.0,
+    "cost_with_vat": "0.00",
+    "destination": {
+        "fullname": "Москва, Моховая улица, 15/1с1",
+        "geopoint": [
+            37.614161,
+            55.756724
+        ]
+    },
+    "interim_destinations": [
+        {
+            "fullname": "Москва, Центральный административный округ, Тверской район, Театральный проезд, 5с1",
+            "geopoint": [
+                37.623961,
+                55.760142
+            ]
+        }
+    ],
+    "combo_order": {
+        "delivery_id": "848c2caeefc04b7390c7aa1bc0ce12ff",
+        "user_points": [
+            {
+                "point": {
+                    "fullname": "Formula Kino na Lubyanke",
+                    "geopoint": [
+                        37.623961,
+                        55.760142
+                    ]
+                },
+                "phone": "+79999999901"
+            },
+            {
+                "point": {
+                    "fullname": "Dr. Zhivago",
+                    "geopoint": [
+                        37.614161,
+                        55.756724
+                    ]
+                },
+                "phone": "+79999999902"
+            }
+        ]
+    },
+    "local_due_date": "2023-03-29T19:13:56+0300",
+    "performer": {
+        "car": "BMW X6 жёлтый У888УУ88",
+        "fullname": "Игнатьев Валентин Бориславич",
+        "vehicle": {
+            "model": "BMW X6",
+            "number": "У888УУ88",
+            "color_code": "FCC00D",
+            "color": "жёлтый"
+        },
+        "phone": ""
+    },
+    "created_by": "4106535277",
+    "created": "2023-03-29T16:10:53",
+    "city": "Москва"
+}

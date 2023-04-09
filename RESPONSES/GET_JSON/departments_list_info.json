@@ -1,0 +1,104 @@
+{
+    "departments": [
+        {
+            "_id": "6dad1023219542a38f2840397c2ca77c",
+            "name": "Подразделение 1",
+            "parent_id": null,
+            "counters": {
+                "users": 5
+            },
+            "limits": {
+                "taxi": {
+                    "budget": null
+                },
+                "eats2": {
+                    "budget": null
+                },
+                "tanker": {
+                    "budget": null
+                },
+                "cargo": {
+                    "budget": null
+                }
+            },
+            "limit": {
+                "budget": null
+            }
+        },
+        {
+            "_id": "3cb12564966c47b28ae920a738bb28f9",
+            "name": "Подразделение 2",
+            "parent_id": null,
+            "counters": {
+                "users": 1
+            },
+            "limits": {
+                "taxi": {
+                    "budget": null
+                },
+                "eats2": {
+                    "budget": null
+                },
+                "tanker": {
+                    "budget": null
+                },
+                "cargo": {
+                    "budget": null
+                }
+            },
+            "limit": {
+                "budget": null
+            }
+        },
+        {
+            "_id": "1e7e933dbc564d568d302be282369ad5",
+            "name": "Подразделение 3",
+            "parent_id": null,
+            "counters": {
+                "users": 1
+            },
+            "limits": {
+                "taxi": {
+                    "budget": null
+                },
+                "eats2": {
+                    "budget": null
+                },
+                "tanker": {
+                    "budget": null
+                },
+                "cargo": {
+                    "budget": null
+                }
+            },
+            "limit": {
+                "budget": null
+            }
+        },
+        {
+            "_id": "74b25da1910543ada15b293b43a9b284",
+            "name": "Пашка",
+            "parent_id": null,
+            "counters": {
+                "users": 1
+            },
+            "limits": {
+                "taxi": {
+                    "budget": null
+                },
+                "eats2": {
+                    "budget": null
+                },
+                "tanker": {
+                    "budget": null
+                },
+                "cargo": {
+                    "budget": null
+                }
+            },
+            "limit": {
+                "budget": null
+            }
+        }
+    ]
+}

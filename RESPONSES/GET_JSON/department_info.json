@@ -1,0 +1,22 @@
+{
+    "_id": "6dad1023219542a38f2840397c2ca77c",
+    "parent_id": null,
+    "name": "Подразделение 1",
+    "limits": {
+        "taxi": {
+            "budget": null
+        },
+        "eats2": {
+            "budget": null
+        },
+        "tanker": {
+            "budget": null
+        },
+        "cargo": {
+            "budget": null
+        }
+    },
+    "limit": {
+        "budget": null
+    }
+}

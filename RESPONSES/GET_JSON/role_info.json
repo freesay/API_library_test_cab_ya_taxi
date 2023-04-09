@@ -1,0 +1,34 @@
+{
+    "restrictions": [],
+    "department_id": null,
+    "geo_restrictions": [],
+    "_id": "c0e0171ebd45464bb65ab7e527e16f74",
+    "period": "month",
+    "limit": Infinity,
+    "counters": {
+        "users": 0
+    },
+    "deletable": true,
+    "orders": {
+        "no_specific_limit": true,
+        "limit": Infinity
+    },
+    "putable": true,
+    "name": "123123",
+    "no_specific_limit": true,
+    "limits_mode": "and",
+    "classes": [
+        "vip",
+        "premium_van",
+        "ultimate",
+        "maybach",
+        "cargo",
+        "child_tariff",
+        "business",
+        "comfortplus",
+        "courier",
+        "minivan",
+        "econom",
+        "express"
+    ]
+}
